@@ -1,8 +1,11 @@
 ### Week 1
+* Course Overview
 
 ### Week 2
+* Introduction to Intel Nios II Soft Processor (1/2)
 
 ### Week 3
+* Introduction to Intel Nios II Soft Processor (2/2)
 
 ### Week 4
 
