@@ -2,53 +2,41 @@
 * Course Overview [[ppt](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EVOOPyAj9stHu-o-hNicifABWVZirOz14EyFx9zqSHd-9Q?e=Uu62ZD)]
 
 ### Week 2
-* Introduction to Intel Nios II Soft Processor (1/2) [[ppt](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EWHS2L95MexHqiqkV0VaAp0BpT-xgtoJQ8p6m4agXK_EDA?e=bIOnsp)]
+* Cell-Based Design & Verilog HDL
 
 ### Week 3
-* Introduction to Intel Nios II Soft Processor (2/2)
+* Verilog HDL for Circuit Synthesis (1/2)
 
 ### Week 4
-* Design Example (ASM)
-* Lab 1 Preview
+* Verilog HDL for Circuit Synthesis (2/2)
 
 ### Week 5
-* Lab 2 Preview
+* Verilog HDL for Circuit Simulation
+* Tutorial: HDL Simulation 
 
 ### Week 6
-* Lab 3 Preview
-* Lab 1 Review
+* HDL Coding Guidelines for Synthesis
+* Lab 1 / Preview
 
 ### Week 7
-* Lab 4 Preview
-* Lab 2 Review
+* Case Study: Design of an FSM
+* Lab 2 / Preview
 
 ### Week 8
-* Lab 5 Preview
-* Lab 3 Review
+* Advanced Topics
+* Tutorial: Design for FPGA
+* Lab 3 / Preview
 
 ### Week 9
-* Lab 6 Preview
-* Lab 4 Review
+* Design under Constrains
+* Lab 4 / Preview
 
 ### Week 10
-* Lab 7 Preview
-* Lab 5 Review
+* Project Guideline
+* Lab 5 / Preview
 
-### Week 11
-* Lab 8 Preview
-* Lab 6 Review
+### Week 11 - 14
+* Project
 
-### Week 12
-* Lab 7 Review
-
-### Week 13
-* Lab 8 Review
-
-### Week 14
-* Supplementary Week
-
-### Week 15
-* Final Exam
-
-### Week 16
+### Week 15 - 16
 * Final Exam
