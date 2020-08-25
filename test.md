@@ -1,6 +1,3 @@
----
-title-heading: false
----
 Test
 =======================
 
@@ -10,3 +7,4 @@ Test
 | 2    | blah blah | blah blah | blah blah | blah blah
 | 3    | blah blah | blah blah | blah blah | blah blah
 | 4    | blah blah | blah blah | blah blah | blah blah
+| 5    | blah blah | blah blah | blah blah | blah blah
