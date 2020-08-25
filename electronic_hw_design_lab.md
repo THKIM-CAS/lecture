@@ -7,7 +7,9 @@
   [[pdf](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EYWIef4kMRdGlGf8J5PONUcBdJOwRjwTOR9HoM57FqhKNw?e=CIWgn2)]
 
 ### Week 3
-* Introduction to Intel Nios II Soft Processor (2/2) [[ppt](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EQqhRb2AUJtKgYbwWk67PT8BwuC1wYdTz_KMPojPhRTSxw?e=Ejwjda)][[pdf](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EYN3iG6VcXJOmbaFUNj-GZMBeTNCpbjuQHk2mUJvDpozhA?e=dVghW2)]
+* Introduction to Intel Nios II Soft Processor (2/2) 
+  [[ppt](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EQqhRb2AUJtKgYbwWk67PT8BwuC1wYdTz_KMPojPhRTSxw?e=Ejwjda)]
+  [[pdf](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EYN3iG6VcXJOmbaFUNj-GZMBeTNCpbjuQHk2mUJvDpozhA?e=dVghW2)]
 
 ### Week 4
 * Design Example (ASM)
