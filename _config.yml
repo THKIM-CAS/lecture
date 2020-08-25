@@ -2,4 +2,4 @@ include:
   - test.md
   - test2.md
 
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
