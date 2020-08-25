@@ -1,8 +1,11 @@
 ### Week 1
-* Course Overview [[ppt](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EVOOPyAj9stHu-o-hNicifABWVZirOz14EyFx9zqSHd-9Q?e=Uu62ZD)]
+* Course Overview 
+  [[ppt](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EVOOPyAj9stHu-o-hNicifABWVZirOz14EyFx9zqSHd-9Q?e=Uu62ZD)]
 
 ### Week 2
-* Cell-Based Design & Verilog HDL [[pdf](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETaJGtwZgwlJvpkI85QXs8YBNJpJhZeHxx5C564iyOqo4Q?e=kdfhif)[video](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EeWaxSbSX2FPq5etSZQNxcoBE_EaB8nwNU0u38IKJ_PDEA?e=AZX8nk)]
+* Cell-Based Design & Verilog HDL 
+  [[pdf](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETaJGtwZgwlJvpkI85QXs8YBNJpJhZeHxx5C564iyOqo4Q?e=kdfhif)]
+  [[video](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EeWaxSbSX2FPq5etSZQNxcoBE_EaB8nwNU0u38IKJ_PDEA?e=AZX8nk)]
 
 ### Week 3
 * Verilog HDL for Circuit Synthesis (1/2)
