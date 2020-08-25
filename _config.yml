@@ -2,4 +2,9 @@ include:
   - test.md
   - test2.md
 
+locale                   : "ko-KR" # 사이트의 언어 설정을 할 수있습니다.
+# 표시되는 언어의 내용은 _data/ui-text.yml 에서 수정이 가능합니다.
+
+title                    : "Lecture Materials by Prof. Tae-Hwan Kim" # 블로그 제목
+
 # theme: jekyll-theme-cayman
