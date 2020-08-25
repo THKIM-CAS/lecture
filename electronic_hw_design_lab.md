@@ -20,36 +20,26 @@
 
 ### Week 6
 * Lab 3 / Preview
-* Lab 1 Review
 
 ### Week 7
 * Lab 4 / Preview
-* Lab 2 Review
 
 ### Week 8
 * Lab 5 / Preview
-* Lab 3 Review
 
 ### Week 9
 * Lab 6 / Preview
-* Lab 4 Review
 
 ### Week 10
 * Lab 7 / Preview
-* Lab 5 Review
 
 ### Week 11
 * Lab 8 / Preview
-* Lab 6 Review
 
 ### Week 12
 * Project Guidelines
-* Lab 7 Review
 
-### Week 13
-* Lab 8 Review
-
-### Week 14
+### Week 13 - 14
 * Project
 
 ### Week 15 - 16
