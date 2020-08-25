@@ -1,6 +1,4 @@
 include:
-  - test.md
-  - test2.md
   - electronic_hw_design_lab.md
   - digital_systems_design.md
   
