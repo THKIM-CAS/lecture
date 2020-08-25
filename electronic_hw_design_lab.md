@@ -45,7 +45,10 @@
 * Lab 8 Review
 
 ### Week 14
+* Supplementary Week
 
 ### Week 15
+* Final Exam
 
 ### Week 16
+* Final Exam
