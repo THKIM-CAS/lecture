@@ -1,5 +1,5 @@
 ### Week 1
-* Course Overview: [ppt](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EVOOPyAj9stHu-o-hNicifABWVZirOz14EyFx9zqSHd-9Q?e=Uu62ZD)
+* Course Overview: [[ppt](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EVOOPyAj9stHu-o-hNicifABWVZirOz14EyFx9zqSHd-9Q?e=Uu62ZD)]
 
 ### Week 2
 * Introduction to Intel Nios II Soft Processor (1/2) [ppt](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EWHS2L95MexHqiqkV0VaAp0BpT-xgtoJQ8p6m4agXK_EDA?e=bIOnsp)
