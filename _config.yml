@@ -3,6 +3,6 @@ include:
   - test2.md
 
 locale: "ko-KR"
-title: nil
+title: null
 
 # theme: jekyll-theme-cayman
