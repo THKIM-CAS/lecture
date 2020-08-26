@@ -1,6 +1,5 @@
 ### Week 1
-* Course Overview 
-  [[pptx](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EcIc19zXPnxPv1dta3JYcrEB4FGkN1Z8GwCIKJo4xfnDQw?e=tFogYQ)]
+* [Course Overview](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EcIc19zXPnxPv1dta3JYcrEB4FGkN1Z8GwCIKJo4xfnDQw?e=tFogYQ)
 
 ### Week 2
 * Cell-Based Design & Verilog HDL 
