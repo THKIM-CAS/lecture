@@ -4,7 +4,7 @@ You can download the files *except the videos* through the session made by log-o
 * [Course Overview](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EcIc19zXPnxPv1dta3JYcrEB4FGkN1Z8GwCIKJo4xfnDQw?e=tFogYQ)
 
 ### Week 2
-* [Cell-Based Design & Verilog HDL](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETaJGtwZgwlJvpkI85QXs8YBNJpJhZeHxx5C564iyOqo4Q?e=kdfhif)
+* [Cell-Based Design & Verilog HDL](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETaJGtwZgwlJvpkI85QXs8YBbk2Kkh9T38lRvfnZEPLrEw?e=5puWM3)
   [[video](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EeWaxSbSX2FPq5etSZQNxcoBE_EaB8nwNU0u38IKJ_PDEA?e=AZX8nk)]
 
 ### Week 3
