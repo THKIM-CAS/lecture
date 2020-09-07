@@ -13,7 +13,7 @@ You can download the files *except the videos* through the session made by log-o
 
 ### Week 4
 * [Verilog HDL for Circuit Synthesis (2/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EdJUZnTAtDBCm3iGS_HiyEsBQHdIeqKav7sE9NJ3A-I8Ng?e=aacG1J)
-  [video](https://youtu.be/zqMoHaf6--U)]
+  [[video](https://youtu.be/zqMoHaf6--U)]
   
 ### Week 5
 * Verilog HDL for Circuit Simulation
