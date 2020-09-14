@@ -9,6 +9,7 @@ You can download the files *except the videos* through the session made by log-o
 ### Week 3
 * [Introduction to Intel Nios II Soft Processor (2/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EYN3iG6VcXJOmbaFUNj-GZMBeTNCpbjuQHk2mUJvDpozhA?e=dVghW2)
   [[video](https://youtu.be/aGdNDza5ozQ)]
+* [Introduction to the Intel® Nios® II Soft Processor](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Efg5mAg8rcVPiZrb5fpWWk4Bz0YzFdADpO9BUv0mWe90kg?e=GixHoX)
 
 ### Week 4
 * Design Example (ASM)
