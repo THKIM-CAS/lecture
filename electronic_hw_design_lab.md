@@ -10,6 +10,7 @@ You can download the files *except the videos* through the session made by log-o
 * [Introduction to Intel Nios II Soft Processor (2/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EYN3iG6VcXJOmbaFUNj-GZMBeTNCpbjuQHk2mUJvDpozhA?e=dVghW2)
   [[video](https://youtu.be/aGdNDza5ozQ)]
   * [Introduction to the Intel® Nios® II Soft Processor](https://ftp.intel.com/Public/Pub/fpgaup/pub/Teaching_Materials/current/Tutorials/Nios2_introduction.pdf)
+  * [Nios II Processor Reference Guide](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/nios2/n2cpu-nii5v1gen2.pdf)
 
 ### Week 4
 * [Design Example (ASM)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EZJ_U8c5rrRDnA05Bvnn6g8BtsoLKyMRt-8YATk9-nXwZg?e=SD0gOW) [[video](https://youtu.be/yHKBPAc6gG0)]
