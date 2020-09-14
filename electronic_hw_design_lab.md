@@ -12,8 +12,10 @@ You can download the files *except the videos* through the session made by log-o
   * [Introduction to the Intel® Nios® II Soft Processor](https://ftp.intel.com/Public/Pub/fpgaup/pub/Teaching_Materials/current/Tutorials/Nios2_introduction.pdf)
 
 ### Week 4
-* Design Example (ASM)
-* Lab 1 / Preview
+* [Design Example (ASM)]() [[video]()]
+  * [University Program Installer](ftp://ftp.intel.com/Pub/fpgaup/pub/Intel_Material/18.1/intel_fpga_upds_setup.exe)
+  * [Monitor Program Tutorial](https://ftp.intel.com/Public/Pub/fpgaup/pub/Teaching_Materials/current/tutorials/Intel_FPGA_Monitor_Program_NiosII.pdf)
+* [Lab 1](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETOaPDS4fFxFkj5V94L3pNgB6mJ6oWuYeM5eNVQILWr0sA?e=5T5Np1) / [Preview]()
 
 ### Week 5
 * Lab 2 / Preview
