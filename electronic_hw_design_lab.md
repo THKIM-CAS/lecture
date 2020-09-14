@@ -2,7 +2,7 @@ You can download the files *except the videos* through the session made by log-o
 ### Week 1
 * [Course Overview](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EVOOPyAj9stHu-o-hNicifABWVZirOz14EyFx9zqSHd-9Q?e=Uu62ZD)
 
-### Week 2 -- 3
+### Week 2 - 3
 * [Introduction to Intel Nios II Soft Processor (1/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EYWIef4kMRdGlGf8J5PONUcBdJOwRjwTOR9HoM57FqhKNw?e=CIWgn2)
   [[video](https://youtu.be/OyMnB-V5JJ8)]
 * [Introduction to Intel Nios II Soft Processor (2/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EYN3iG6VcXJOmbaFUNj-GZMBeTNCpbjuQHk2mUJvDpozhA?e=dVghW2)
