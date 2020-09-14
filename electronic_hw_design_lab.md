@@ -12,10 +12,10 @@ You can download the files *except the videos* through the session made by log-o
   * [Introduction to the Intel® Nios® II Soft Processor](https://ftp.intel.com/Public/Pub/fpgaup/pub/Teaching_Materials/current/Tutorials/Nios2_introduction.pdf)
 
 ### Week 4
-* [Design Example (ASM)]() [[video]()]
-  * [University Program Installer](http://ftp.intel.com/Pub/fpgaup/pub/Intel_Material/18.1/intel_fpga_upds_setup.exe)
+* [Design Example (ASM)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EZJ_U8c5rrRDnA05Bvnn6g8BtsoLKyMRt-8YATk9-nXwZg?e=SD0gOW) [[video](https://youtu.be/yHKBPAc6gG0)]
+  * [University Program Installer](ftp://ftp.intel.com/Pub/fpgaup/pub/Intel_Material/18.1/intel_fpga_upds_setup.exe)
   * [Monitor Program Tutorial](https://ftp.intel.com/Public/Pub/fpgaup/pub/Teaching_Materials/current/tutorials/Intel_FPGA_Monitor_Program_NiosII.pdf)
-* [Lab 1](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETOaPDS4fFxFkj5V94L3pNgB6mJ6oWuYeM5eNVQILWr0sA?e=5T5Np1) / [Preview]()
+* [Lab 1](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETOaPDS4fFxFkj5V94L3pNgB6mJ6oWuYeM5eNVQILWr0sA?e=5T5Np1) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ef6k5-K004RGtITjupWHOcAB8ugVa3axk39nt_wLiyFiKw?e=0oroog) [[video](https://youtu.be/YgCgvh5b4oQ)]
 
 ### Week 5
 * Lab 2 / Preview
