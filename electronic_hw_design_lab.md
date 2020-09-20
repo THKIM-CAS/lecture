@@ -21,13 +21,13 @@ You can download the files *except the videos* through the session made by log-o
   * [address_map_nios2.s](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EWCFFzdIMZhEqdT8WgE7J0wBhpf6lbpAAu4QEgYfiTnrAw?e=hlJOcH)
 
 ### Week 6
-* Lab 3 / Preview
+* [Lab 3]() / [Preview]()
 
 ### Week 7
-* Lab 4 / Preview
+* [Lab 4]() / [Preview]()
 
 ### Week 8
-* Lab 5 / Preview
+* [Lab 5]() / [Preview]()
 
 ### Week 9
 * Lab 6 / Preview
