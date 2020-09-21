@@ -16,8 +16,10 @@ You can download the files *except the videos* through the session made by log-o
   [[video](https://youtu.be/zqMoHaf6--U)]
   
 ### Week 5
-* Verilog HDL for Circuit Simulation
-* Tutorial: HDL Simulation 
+* [Verilog HDL for Circuit Simulation](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETzCrftm6hVDgWj3742VDewBbGJLL466NczGHGYNa85WRA?e=bZd4do)
+  [[video](https://youtu.be/GoNXzIoO724)]
+* [Tutorial: Tool Setup](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EVbwpYtShLxOiQNVp_NMkOsBfzow0y1BpWUIaVu_2W9Q0A?e=cWcyhQ)
+* [Tutorial: HDL Simulation](https://youtu.be/1Pgb5fg5Uv8) 
 
 ### Week 6
 * HDL Coding Guidelines for Synthesis
