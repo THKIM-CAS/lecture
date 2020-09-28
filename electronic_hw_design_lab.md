@@ -16,7 +16,7 @@ You can download the files *except the videos* through the session made by log-o
   * [Monitor Program Tutorial](https://ftp.intel.com/Public/Pub/fpgaup/pub/Teaching_Materials/current/tutorials/Intel_FPGA_Monitor_Program_NiosII.pdf)
 * [Lab 1](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETOaPDS4fFxFkj5V94L3pNgB6mJ6oWuYeM5eNVQILWr0sA?e=5T5Np1) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ef6k5-K004RGtITjupWHOcAB8ugVa3axk39nt_wLiyFiKw?e=0oroog) [[video](https://youtu.be/YgCgvh5b4oQ)]
 
-### Week 5
+### Week 5 (Sept. 27 -- Oct. 3)
 * [Lab 2](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ERCdWBAYiU5EgKl0lFsxsLsBjDViRdX4TyK5KFipdXGDTg?e=eKYbuz) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQ1ETm_TOqtEmB8LtN-VyWcBtKRZUlyrF0WgLyAq1pHGiw?e=iG1iHL) [[video](https://youtu.be/l9mmJ24K3I0)]
   * [address_map_nios2.s](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EWCFFzdIMZhEqdT8WgE7J0wBhpf6lbpAAu4QEgYfiTnrAw?e=hlJOcH)
 
