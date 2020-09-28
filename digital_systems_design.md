@@ -1,44 +1,44 @@
 You can download the files *except the videos* through the session made by log-on process with your *KAU office365 account*. The video files are not downloadable; they can be played only via web.
 
-### Week 1
+### Week 1 (Aug. 30 -- Sept. 5)
 * [Course Overview](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EcIc19zXPnxPv1dta3JYcrEB4FGkN1Z8GwCIKJo4xfnDQw?e=tFogYQ)
 
-### Week 2
+### Week 2 (Sept. 6 -- Sept. 12)
 * [Cell-Based Design & Verilog HDL](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETaJGtwZgwlJvpkI85QXs8YBbk2Kkh9T38lRvfnZEPLrEw?e=5puWM3)
   [[video](https://youtu.be/h1n_TeRyZTA)]
 
-### Week 3
+### Week 3 (Sept. 13 -- Sept. 19)
 * [Verilog HDL for Circuit Synthesis (1/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ef0h6pzFNgJAmvjrjs37yTEBqvKMrU3C05JzZArYFmt5TA?e=nLaaXK)
   [[video](https://youtu.be/egp8SYCLV5w)]
 
-### Week 4
+### Week 4 (Sept. 20 -- Sept. 26)
 * [Verilog HDL for Circuit Synthesis (2/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EdJUZnTAtDBCm3iGS_HiyEsBQHdIeqKav7sE9NJ3A-I8Ng?e=aacG1J)
   [[video](https://youtu.be/zqMoHaf6--U)]
   
-### Week 5
+### Week 5 (Sept. 27 -- Oct. 3)
 * [Verilog HDL for Circuit Simulation](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETzCrftm6hVDgWj3742VDewBbGJLL466NczGHGYNa85WRA?e=bZd4do)
   [[video](https://youtu.be/GoNXzIoO724)]
 * [Tutorial: Tool Setup](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EVbwpYtShLxOiQNVp_NMkOsBfzow0y1BpWUIaVu_2W9Q0A?e=cWcyhQ)
 * [Tutorial: HDL Simulation](https://youtu.be/1Pgb5fg5Uv8) 
 
-### Week 6
+### Week 6 (Oct. 4 -- Oct. 10)
 * HDL Coding Guidelines for Synthesis
 * Lab 1 / Preview
 
-### Week 7
+### Week 7 (Oct. 11 -- Oct. 17)
 * Case Study: Design of an FSM
 * Lab 2 / Preview
 
-### Week 8
+### Week 8 (Oct. 18 -- Oct. 24)
 * Advanced Topics
 * Tutorial: Design for FPGA
 * Lab 3 / Preview
 
-### Week 9
+### Week 9 (Oct. 25 -- Oct. 31)
 * Design under Constrains
 * Lab 4 / Preview
 
-### Week 10
+### Week 10 (Nov. 1 -- Nov. 7)
 * Project Guideline
 * Lab 5 / Preview
 
