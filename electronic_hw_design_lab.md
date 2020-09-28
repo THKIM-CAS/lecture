@@ -24,10 +24,10 @@ You can download the files *except the videos* through the session made by log-o
 * [Lab 3](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EXqtGlrLd9VAkAdzVBMFqdgBJbTkDA9erWz7N-OKVyHccA?e=vimEe8) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EV_DUO0T_BhLvEjxasxE9rUBxwwAoirxEQ2FOrweRWDAqw?e=MW12e5) [[video](https://youtu.be/DAYmT2QuQ7o)]
 
 ### Week 7
-* [Lab 4]() / [Preview]()
+* [Lab 4](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EfMHE0_deBdBtyYMe5Ot_qMB84CQ9OjRD9pPJpmVTHNZCA?e=oiSd66) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ef44eI56j4JBtyyeRxpsgXIB6HPoZRkBptGTINs3y5ClSg?e=k3K6ye) [[video](https://youtu.be/13EKDvgbS1c)]
 
 ### Week 8
-* [Lab 5]() / [Preview]()
+* [Lab 5](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ESPmeuoaC3RFogcBcC8uDnkBsKzUDitMlfdqAYVlfzXLLg?e=e1BWhq) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQlYN-E69NJDu-I8Olw6sVMBWKEsY1GbsGt9Jp6g6Owy8A?e=dUT1aZ) [[video](https://youtu.be/u5jo8iYkd7A)]
 
 ### Week 9
 * Lab 6 / Preview
