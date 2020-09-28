@@ -22,7 +22,7 @@ You can download the files *except the videos* through the session made by log-o
 * [Tutorial: HDL Simulation](https://youtu.be/1Pgb5fg5Uv8) 
 
 ### Week 6 (Oct. 4 -- Oct. 10)
-* [HDL Coding Guidelines for Synthesis](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EWGflt6KXwBHsBgE8HPRh-EBKmSVQNS2HipM3o8eJLQSIg?e=zzF8ud) [[video]()]
+* [HDL Coding Guidelines for Synthesis](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EWGflt6KXwBHsBgE8HPRh-EBKmSVQNS2HipM3o8eJLQSIg?e=zzF8ud) [[video](https://youtu.be/-z7_KRf4SO8)]
 * [Lab 1](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Eefvbdis7ItJjFWB93dDOwQBkggCfweX-q1Hab8knpzUkg?e=9rSjrG) / [[video](https://youtu.be/6mfmOVyN4JU)]
 
 ### Week 7 (Oct. 11 -- Oct. 17)
