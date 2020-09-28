@@ -7,7 +7,7 @@ You can download the files *except the videos* through the session made by log-o
 * [Cell-Based Design & Verilog HDL](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETaJGtwZgwlJvpkI85QXs8YBbk2Kkh9T38lRvfnZEPLrEw?e=5puWM3)
   [[video](https://youtu.be/h1n_TeRyZTA)]
 
-### Week 3 (Sept. 13 -- Sept. 26)
+### Week 3 -- 4 (Sept. 13 -- Sept. 26)
 * [Verilog HDL for Circuit Synthesis (1/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ef0h6pzFNgJAmvjrjs37yTEBqvKMrU3C05JzZArYFmt5TA?e=nLaaXK)
   [[video](https://youtu.be/egp8SYCLV5w)]
 * [Verilog HDL for Circuit Synthesis (2/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EdJUZnTAtDBCm3iGS_HiyEsBQHdIeqKav7sE9NJ3A-I8Ng?e=aacG1J)
