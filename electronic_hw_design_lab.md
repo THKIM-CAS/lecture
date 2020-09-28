@@ -25,9 +25,13 @@ You can download the files *except the videos* through the session made by log-o
 
 ### Week 7
 * [Lab 4](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EfMHE0_deBdBtyYMe5Ot_qMB84CQ9OjRD9pPJpmVTHNZCA?e=oiSd66) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ef44eI56j4JBtyyeRxpsgXIB6HPoZRkBptGTINs3y5ClSg?e=k3K6ye) [[video](https://youtu.be/13EKDvgbS1c)]
+  * [DE1-SoC Computer System with Nios-II](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQpZq2oQx6RDviUAuG2a0nYBoywE5RUBdFvOKabvhCmNcg?e=grHcvh)
+  * [Parallel Port for Intel DE-Series Boards](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQ_t3ICpfDNGtCc4r8bhq2UB60Ca2-CBwOZZOqz1aBO2Wg?e=WuqSSc)
 
 ### Week 8
 * [Lab 5](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ESPmeuoaC3RFogcBcC8uDnkBsKzUDitMlfdqAYVlfzXLLg?e=e1BWhq) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQlYN-E69NJDu-I8Olw6sVMBWKEsY1GbsGt9Jp6g6Owy8A?e=dUT1aZ) [[video](https://youtu.be/u5jo8iYkd7A)]
+  * [Introduction to the Intel Nios-II Soft Processor](https://ftp.intel.com/Public/Pub/fpgaup/pub/Teaching_Materials/current/Tutorials/Nios2_introduction.pdf)
+  * [DE1-SoC Computer System with Nios-II](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQpZq2oQx6RDviUAuG2a0nYBoywE5RUBdFvOKabvhCmNcg?e=grHcvh)
 
 ### Week 9
 * Lab 6 / Preview
