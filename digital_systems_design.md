@@ -26,7 +26,7 @@ You can download the files *except the videos* through the session made by log-o
 * [Lab 1](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Eefvbdis7ItJjFWB93dDOwQBkggCfweX-q1Hab8knpzUkg?e=9rSjrG) / [[video](https://youtu.be/6mfmOVyN4JU)]
 
 ### Week 7 (Oct. 11 -- Oct. 17)
-* [Case Study: Design of an FSM](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ESK9uzUXQDRDkvjsv1d5sZQB93qwpPC2V1oX4jBHkDzAhA?e=7SRX8R) [[video]()]
+* [Case Study: Design of an FSM](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ESK9uzUXQDRDkvjsv1d5sZQB93qwpPC2V1oX4jBHkDzAhA?e=7SRX8R) [[video](https://youtu.be/txVkgCLXv6I)]
 * [Lab 2](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ESxB51UPTE1PvWBneo3k9goBtqKWGWQOYi56V6JyjKgeAA?e=UrSjuC) / [[video](https://youtu.be/AU9TkH3_zuY)]
 
 ### Week 8 (Oct. 18 -- Oct. 24)
