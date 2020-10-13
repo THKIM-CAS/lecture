@@ -35,8 +35,8 @@ You can download the files *except the videos* through the session made by log-o
 * [Lab 3](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EWT3fLGv0qNDlkpT_ZLZuj0BO8HPn9PnCl5uAaj12EchsQ?e=2CgQkF) / [[video](https://youtu.be/z5ublc8a4wg)]
 
 ### Week 9 (Oct. 25 -- Oct. 31)
-* Design under Constrains
-* Lab 4 / Preview
+* [Design under Timing Constrains](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETwbzi51dKJFitAJZS81wFgB8YtP1A8T1ScMQwYFmIgbpQ?e=U3E1kw) / [[video](https://youtu.be/_uMOuuVGAl0)]
+* [Lab 4]() / [[video]()]
 
 ### Week 10 (Nov. 1 -- Nov. 7)
 * Project Guideline
