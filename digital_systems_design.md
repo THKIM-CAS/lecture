@@ -29,8 +29,9 @@ You can download the files *except the videos* through the session made by log-o
 
 ### Week 8 (Oct. 18 -- Oct. 24)
 * [Advanced Topics]() / [[video]()]
+  * [IEEE1364-2005](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EWkytWQv-oxJtLPSzCH2miIBZkWpDpWBesawMgQuwujYlw?e=f3NCS0)
 * [Tutorial: Design for FPGA](https://youtu.be/jR7GlUclXcs)
-* [DE10-Lite User Manual](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EfBzNzA_NSdMpeFvTbDjkdMBkDPwpqbFWs87BjjCuC5UXg?e=ECbgGh)
+  * [DE10-Lite User Manual](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EfBzNzA_NSdMpeFvTbDjkdMBkDPwpqbFWs87BjjCuC5UXg?e=ECbgGh)
 * [Lab 3](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EWT3fLGv0qNDlkpT_ZLZuj0BO8HPn9PnCl5uAaj12EchsQ?e=2CgQkF) / [[video](https://youtu.be/z5ublc8a4wg)]
 
 ### Week 9 (Oct. 25 -- Oct. 31)
