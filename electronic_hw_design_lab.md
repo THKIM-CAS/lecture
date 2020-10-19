@@ -37,12 +37,14 @@ You can download the files *except the videos* through the session made by log-o
 ### Week 9 (Oct. 25 -- Oct. 31)
 * [Design Example (C)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETHfKkt38vxDour3TmZe-6wBW708e9hxO3a1ANGg577p9w?e=fRQpSb) [[video](https://youtu.be/-17FYGDyits)]
 * [Lab 6](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EUdm_h8qORpOjy9o8ihOKTUBc8lI7WgTBXRAwnRLxohqZg?e=wuu1jv) / [Preview]()[[video](https://youtu.be/i98wuep4-Mw)]
+  * [address_map_nios2.h](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/ESsbXVeky3RBtYXxc6z0ybsBJDTtI5-3l7Rrf9QbTyioqw?e=WehHEM)
 
 ### Week 10 (Nov. 1 -- Nov. 7)
-* [Lab 7](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EVpHY4pS42hEtLG5K8e2djsB29zvaKdY9IoDxjSisFSB5g?e=BKMXsc) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EcqDhXljzlFNiJgZC_WF3jgB18NM8C3_3NyH13TkvTA7NA?e=6Gwx2T) [[video]()]
-
+* [Lab 7](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EVpHY4pS42hEtLG5K8e2djsB29zvaKdY9IoDxjSisFSB5g?e=BKMXsc) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EcqDhXljzlFNiJgZC_WF3jgB18NM8C3_3NyH13TkvTA7NA?e=6Gwx2T) [[video](https://youtu.be/bNvQB7kGq88)]
+  * [nios2_ctrl_reg_macros.h](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/Ec-KKN90JzRGjQ2LeokEbA8Bunqii-Wue5FzNkEcgWTl5g?e=cT1ei4)
+  
 ### Week 11 (Nov. 8 -- Nov. 14)
-* [Lab 8](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETfcMHEA4sNCo_LapbGZjA4B4W1vELH9-UFRG8S6Lpr4ZQ?e=AI2gIc) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EaGrW_A3Ca9DpamWWhcIfb0BLky7BdHLfDLvQvVxXX40SA?e=QCfPEf) [[video]()]
+* [Lab 8](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETfcMHEA4sNCo_LapbGZjA4B4W1vELH9-UFRG8S6Lpr4ZQ?e=AI2gIc) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EaGrW_A3Ca9DpamWWhcIfb0BLky7BdHLfDLvQvVxXX40SA?e=QCfPEf) [[video](https://youtu.be/Qes8JttiBuk)]
 
 ### Week 12 (Nov. 15 -- Nov. 21)
 * Project Guidelines
