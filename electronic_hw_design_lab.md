@@ -36,7 +36,7 @@ You can download the files *except the videos* through the session made by log-o
 
 ### Week 9 (Oct. 25 -- Oct. 31)
 * [Design Example (C)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETHfKkt38vxDour3TmZe-6wBW708e9hxO3a1ANGg577p9w?e=fRQpSb) [[video](https://youtu.be/-17FYGDyits)]
-* [Lab 6](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EUdm_h8qORpOjy9o8ihOKTUBc8lI7WgTBXRAwnRLxohqZg?e=wuu1jv) / [Preview]()[[video](https://youtu.be/i98wuep4-Mw)]
+* [Lab 6](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EUdm_h8qORpOjy9o8ihOKTUBc8lI7WgTBXRAwnRLxohqZg?e=wuu1jv) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EWw6IMg5-FZAujASlDLrvSYBG5va7m9AUQmxifteTKXnLA?e=iCI3Vy)[[video](https://youtu.be/i98wuep4-Mw)]
   * [address_map_nios2.h](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/ESsbXVeky3RBtYXxc6z0ybsBJDTtI5-3l7Rrf9QbTyioqw?e=WehHEM)
 
 ### Week 10 (Nov. 1 -- Nov. 7)
