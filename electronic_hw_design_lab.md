@@ -46,10 +46,7 @@ You can download the files *except the videos* through the session made by log-o
 ### Week 11 (Nov. 8 -- Nov. 14)
 * [Lab 8](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETfcMHEA4sNCo_LapbGZjA4B4W1vELH9-UFRG8S6Lpr4ZQ?e=AI2gIc) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EaGrW_A3Ca9DpamWWhcIfb0BLky7BdHLfDLvQvVxXX40SA?e=QCfPEf) [[video](https://youtu.be/Qes8JttiBuk)]
 
-### Week 12 (Nov. 15 -- Nov. 21)
-* Project Guidelines
-
-### Week 13 - 14 (Nov. 22 -- Dec. 5)
+### Week 12 -- 14 (Nov. 15 -- Dec. 5)
 * Project
 
 ### Week 15 - 16 (Dec. 6 -- Dec. 19)
