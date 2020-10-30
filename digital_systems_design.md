@@ -39,11 +39,11 @@ You can download the files *except the videos* through the session made by log-o
 * [Lab 4](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ed6YTmnsWsFMtLLndHv_h2ABQKNbvKtWvjKbW6290OIv_w?e=P3YaAN) / [[video](https://youtu.be/WOTai7Cj9aQ)]
 
 ### Week 10 (Nov. 1 -- Nov. 7)
-* Project Guideline
 * [Lab 5](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EYwp8KlV-yxOvKo7i3CHhXQBxsU-bOZekoK22eXbf2Fljg?e=YMAsEG) / [[video](https://youtu.be/DAEkAu3y5JM)]
 
 ### Week 11 - 14
 * Project
+  * Guideline
 
 ### Week 15 - 16
 * Final Exam
