@@ -45,5 +45,5 @@ You can download the files *except the videos* through the session made by log-o
 * Project
   * Guideline
 
-### Week 15 - 16
+### Week 15 - 16 (Dec. 6 -- Dec. 19)
 * Final Exam
