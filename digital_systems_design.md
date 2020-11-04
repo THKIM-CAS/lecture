@@ -36,6 +36,7 @@ You can download the files *except the videos* through the session made by log-o
 
 ### Week 9 (Oct. 25 -- Oct. 31)
 * [Design under Timing Constrains](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETwbzi51dKJFitAJZS81wFgB8YtP1A8T1ScMQwYFmIgbpQ?e=U3E1kw) / [[video](https://youtu.be/_uMOuuVGAl0)]
+  * [Timining Analyzer in Intel Quartus Software](https://ftp.intel.com/Public/Pub/fpgaup/pub/Teaching_Materials/current/Tutorials/Verilog/Timequest.pdf) 
 * [Lab 4](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ed6YTmnsWsFMtLLndHv_h2ABQKNbvKtWvjKbW6290OIv_w?e=P3YaAN) / [[video](https://youtu.be/WOTai7Cj9aQ)]
 
 ### Week 10 (Nov. 1 -- Nov. 7)
