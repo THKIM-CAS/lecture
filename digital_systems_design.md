@@ -43,8 +43,8 @@ You can download the files *except the videos* through the session made by log-o
 * [Lab 5](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EYwp8KlV-yxOvKo7i3CHhXQBxsU-bOZekoK22eXbf2Fljg?e=YMAsEG) / [[video](https://youtu.be/DAEkAu3y5JM)]
 
 ### Week 11 - 14 (Nov. 8 -- Dec. 5)
-* Project
-  * Guideline
+* [Project Guideline](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/Ecu0o9vWjX9Ch8Rh7LvsgJkBQ5L6iirWwrHiHEFsQBtP6Q?e=ULMkpI)
+  * Document Templates: [중간보고서](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ERakvp2fPUJGkooO5u_UQL0Bya8HgaL2OXWugMHS2Lk9DA?e=wUHU2T), [결과보고서](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EV-5GwpIsyhNjnS7WeuBkCMBh0tSP9pUOOTouAvh-EnJEg?e=yU3fuB)
 
 ### Week 15 - 16 (Dec. 6 -- Dec. 19)
 * Final Exam
