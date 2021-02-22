@@ -1,5 +1,4 @@
 You can download the files *except the videos* through the session made by log-on process with your *KAU office365 account*. The video files are not downloadable; they can be played only via web.
-
 ### Week 1
   * [Course Overview](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ETy7hXw4nNdPs3UoQ8BVieIB9oSwYQ6BLZTtPZLt4m8YmA?e=gy6ZhC) 
 ### Week 2
