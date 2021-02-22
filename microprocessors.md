@@ -20,19 +20,19 @@ You can download the files *except the videos* through the session made by log-o
   * [Arithmetic for Computers]()
   
 ### Week 7
-  * [The Processor (1/5)]()
+  * [The Processor (1/4)]()
   
 ### Week 8
-  * [The Processor (2/5)]()
+  * [The Processor (2/4)]()
 
 ### Week 9
-  * [The Processor (3/5)]()
+  * [Project Guideline]()
 
 ### Week 10
-  * [The Processor (4/5)]()
+  * [The Processor (3/4)]()
 
 ### Week 11
-  * [The Processor (5/5)]()
+  * [The Processor (4/4)]()
 
 ### Week 12
   * [Large and Fast: Exploiting Memory Hierarchy (1/3)]()
@@ -41,9 +41,9 @@ You can download the files *except the videos* through the session made by log-o
   * [Large and Fast: Exploiting Memory Hierarchy (2/3)]()
   
 ### Week 14
-  * [Large and Fast: Exploiting Memory Hierarchy (3/3)]()
+  * [Course Summary]()
   
 ### Week 15 (Complimentary)
 ### Week 16
-* Final Exam
+  * Final Exam
 
