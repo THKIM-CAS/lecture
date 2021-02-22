@@ -1,6 +1,8 @@
 include:
   - electronic_hw_design_lab.md
   - digital_systems_design.md
+  - microprocessors.md
+  - embedded_systems_design.md
   
 locale: "ko-KR"
 name: something
