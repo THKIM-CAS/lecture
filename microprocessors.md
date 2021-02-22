@@ -5,7 +5,7 @@ You can download the files *except the videos* through the session made by log-o
   * [Computer Abstraction and Technology (1/2)](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EQNPfFSRJ_NJs3wtv585hIYBQYMUpwY3HhTQOzHyLiBZbg?e=k7UcFm)
 
 ### Week 2
-  * [Computer Abstraction and Technology (2/2)]()
+  * [Computer Abstraction and Technology (2/2)](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EbUVXWa3GfNFqeQNsWgJNlMB0U_pE0QeSSxSKbRMe-cBRQ?e=xu5OxV)
 
 ### Week 3
   * [Instruction: Language of the Computer (1/3)]()
