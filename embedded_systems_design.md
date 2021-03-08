@@ -11,7 +11,7 @@ You can download the files *except the videos* through the session made by log-o
   * [🧪Lab1. Setup](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EVOiD9OKlWBPmnYAIVrUUj0BTlhVyGyNyw-LQmxaO0eKmA?e=vDe0aV) [🎞](https://youtu.be/e4QsF4kh-V4)
     * [Linux Image for the Labs](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EQbX14uXf81DoWSI-oMyQwMB08rUfoqxbgYILbkEZPocDA?e=DtI5OD)
     * [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/)
-    * [Report Template](https://kau365-my.sharepoint.com/:w:/g/personal/taehwan_kim_kau_ac_kr/Eb2LxR5JrtBDm3fOo8VaUn8BQbgiakmidv2pU_MQjT7DLA?e=xhMghy); This template shall be used to write reports for Lab1 through Lab5.
+    * [Report Template](https://kau365-my.sharepoint.com/:w:/g/personal/taehwan_kim_kau_ac_kr/Eb2LxR5JrtBDm3fOo8VaUn8BQbgiakmidv2pU_MQjT7DLA?e=xhMghy); Download and use this file to write the reports for Lab1 through Lab5.
   * [Introduction to the ARM processor Using ARM Toolchain](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EaaypY1mhQ5MhmNu1Lci08YBbNbhLSsT-EwmM5b5tvA4fQ?e=UHhtS1)
 
 ### Week 4
