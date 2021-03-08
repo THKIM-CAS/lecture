@@ -16,7 +16,7 @@ You can download the files *except the videos* through the session made by log-o
 ### Week 5
   * [💻 ARM Assembly](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EajmVlWwBlZBtIptqYd42KsBZw3NGQ65Z_DVRVA7422ZuA?e=dvlIPI) [🎞]()
 
-\\<!--
+<!--
 ### Week 6
   * [CPUs](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EU5SgJXyToBBqAGvrVUl5BYBcCedGT8cEBdfhKVK6O4RuQ?e=gChyhs) [🎞]()
   
