@@ -18,7 +18,8 @@ You can download the files *except the videos* through the session made by log-o
 
 ### Week 6
   * Arithmetic for Computers [🎞](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/Ee_0NOlaebVNmvBWBz1K8MgBqbl_5XyOAPShLc_-AGckLQ?e=cdf8sQ)
-   
+
+<!--
 ### Week 7
   * The Processor (1/4) [🎞]()
   
@@ -46,3 +47,4 @@ You can download the files *except the videos* through the session made by log-o
 ### Week 15 (Complimentary)
 ### Week 16
   * Final Exam
+-->
