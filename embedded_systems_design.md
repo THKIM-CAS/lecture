@@ -2,43 +2,39 @@ You can download the files *except the videos* through the session made by log-o
 
 ### Week 1
   * [Course Overview](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EQeSZGpn5lZLtVey8MpmysYBjf-HeuNjASTVXBxhOpSMOg?e=qagN3E)
-  * [Embedded Computing](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EeeZZbpVGilDu5qBBSbux_IBK8rYDCxiecVGRksDADZH1w?e=qDAJCT)
+  * [Embedded Computing](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ee9fMb3BZzBJksBEqD7L3bcBOz5mempADm1TJkyCbeVGIQ?e=nUHUH9) [[Video]()]
 
-### Week 2
-  * [Instruction Sets]()
-
-### Week 3
-  * [[Lab] Setup]()
-
-### Week 4
-  * [Instruction Sets]()
+### Week 2 -- 4
+  * [Instruction Sets](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EWxvL43NL-xJpGgdi5gkaW0BMYB1fPC8SJNboAvohZz9NQ?e=LrdztW) [[Video]()]
+  * [[Lab] Setup]() [[Video]()]
 
 ### Week 5
-  * [[Lab] ARM Assembly]()
+  * [[Lab] ARM Assembly]() [[Video]()]
 
 ### Week 6
-  * [CPUs]()
+  * [CPUs](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EU5SgJXyToBBqAGvrVUl5BYBcCedGT8cEBdfhKVK6O4RuQ?e=gChyhs) [[Video]()]
   
 ### Week 7
-  * [Computing Platforms]()
+  * [Computing Platforms](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQn3HC5-fOxMvsXNhyqyT3EBl-8iWaxM_jvaoME-AqkVBw?e=IqyhJZ) [[Video]()]
   
 ### Week 8
-  * [[Lab] Memory-Mapped IO]()
+  * [[Lab] Memory-Mapped IO]() [[Video]()]
 
 ### Week 9
-  * [Program Design and Analysis]()
+  * [Program Design and Analysis](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ESrYUPDWWxZHp5IzRiWS4VIBQjx9k2qHrTUn469DXzTvXw?e=epDBdD) [[Video]()]
 
 ### Week 10
-  * [Processes and Operating Systems]()
+  * [Processes and Operating Systems](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ea6lsj2ZFehCkS10uIkTSGgBoYVkAj6NORQxXU-TVGIebQ?e=1PdW7h) [[Video]()]
 
 ### Week 11
-  * [[Lab] Device Driver]()
+  * [[Lab] Device Driver]() [[Video]()]
 
 ### Week 12 -- 13
-  * [[Mini Project] Accelerator]()
+  * [[Mini Project] Accelerator]() [[Video]()]
     
 ### Week 14
-  * [IoT Systems, Embedded Multiprocessors]()
+  * [IoT Systems](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EWfAmEXKQeJDnARyuFfN4KsBQfFTKuryyQcEWAPr_3X4zg?e=3PY72F) [[Video]()]
+  * [Embedded Multiprocessors](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Eb5uOkD6ovNPm_Q7ItpFvRkBXOiWXYjphaMsfAH7pbaB4w?e=NtihBf) [[Video]()]
   
 ### Week 15 (Complimentary)
 ### Week 16
