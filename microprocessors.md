@@ -8,17 +8,17 @@ You can download the files *except the videos* through the session made by log-o
   * [Computer Abstraction and Technology (2/2)](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EbUVXWa3GfNFqeQNsWgJNlMB0U_pE0QeSSxSKbRMe-cBRQ?e=xu5OxV)
 
 ### Week 3
-  * [Instruction: Language of the Computer (1/3)]()
+  * [Instruction: Language of the Computer (1/3)](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EV1RbnqJnLRDlHWelgEKJnEBUV6ke7JvvbmD3hF42xHfYg?e=RQyqF3)
   
 ### Week 4
-  * [Instruction: Language of the Computer (2/3)]()
+  * [Instruction: Language of the Computer (2/3)](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EVUa7t5QlD1MlZb28u8oWNIB3Ja_caPwlRRoMURtbgaaGw?e=mjE35r)
 
 ### Week 5
-  * [Instruction: Language of the Computer (3/3)]()
+  * [Instruction: Language of the Computer (3/3)](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EQaZ2IXWArlElQCtYvpxVyEB8LfCpjLO1oTVwP8f7KnqFg?e=5GtI5k)
 
 ### Week 6
-  * [Arithmetic for Computers]()
-  
+  * [Arithmetic for Computers](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/Ee_0NOlaebVNmvBWBz1K8MgBqbl_5XyOAPShLc_-AGckLQ?e=cdf8sQ)
+<!--  
 ### Week 7
   * [The Processor (1/4)]()
   
@@ -46,4 +46,4 @@ You can download the files *except the videos* through the session made by log-o
 ### Week 15 (Complimentary)
 ### Week 16
   * Final Exam
-
+-->
