@@ -6,7 +6,7 @@ You can download the files *except the videos* through the session made by log-o
 
 ### Week 2 -- 4
   * [Instruction Sets](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EWxvL43NL-xJpGgdi5gkaW0BMYB1fPC8SJNboAvohZz9NQ?e=LrdztW) [[Video]()]
-  * [[Lab] Setup]() [[Video]()]
+  * [[Lab] 🍕💻Setup]() [[Video]()]
 
 ### Week 5
   * [[Lab] ARM Assembly]() [[Video]()]
