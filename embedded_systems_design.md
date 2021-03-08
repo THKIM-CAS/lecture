@@ -8,6 +8,7 @@ You can download the files *except the videos* through the session made by log-o
   * [📝Instruction Sets (1/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ERVsHHVj6o9CnwCAPFqOgiwBOENUdeqoL4nDw__gTGRH-Q?e=SMznF3) [🎞](https://youtu.be/JFBT7cxq1P0)
 
 ### Week 3
+  * [Lab Operatig Rules](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EURYoo7YuthIsIaAiP_n7CsB-GbxNSfK_v5Y3iI5idgb5w?e=nTRHDN)
   * [🧪Lab1. Setup](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EVOiD9OKlWBPmnYAIVrUUj0BTlhVyGyNyw-LQmxaO0eKmA?e=vDe0aV) [🎞](https://youtu.be/e4QsF4kh-V4)
     * [Linux Image for the Labs](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EQbX14uXf81DoWSI-oMyQwMB08rUfoqxbgYILbkEZPocDA?e=DtI5OD)
     * [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/)
