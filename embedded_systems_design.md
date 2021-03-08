@@ -5,17 +5,18 @@ You can download the files *except the videos* through the session made by log-o
   * [Embedded Computing](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ee9fMb3BZzBJksBEqD7L3bcBOz5mempADm1TJkyCbeVGIQ?e=nUHUH9) [🎞](https://youtu.be/ZDY-N8wqBGE)
 
 ### Week 2
-  * [Instruction Sets (1/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EWxvL43NL-xJpGgdi5gkaW0BMYB1fPC8SJNboAvohZz9NQ?e=LrdztW) [🎞]()
+  * [Instruction Sets (1/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ERVsHHVj6o9CnwCAPFqOgiwBOENUdeqoL4nDw__gTGRH-Q?e=SMznF3) [🎞]()
 
 ### Week 3
-  * [💻 Setup]() [🎞]()
+  * [💻 Setup](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EVOiD9OKlWBPmnYAIVrUUj0BTlhVyGyNyw-LQmxaO0eKmA?e=vDe0aV) [🎞]()
 
 ### Week 4
-  * [Instruction Sets (2/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EWxvL43NL-xJpGgdi5gkaW0BMYB1fPC8SJNboAvohZz9NQ?e=LrdztW) [🎞]()
+  * [Instruction Sets (2/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EZtZPd8EuYhNvAk8-LiQxhYBxcCu1LI2uz-InsL-GxL2dA?e=fZlmKs) [🎞]()
 
 ### Week 5
-  * [💻 ARM Assembly]() [🎞]()
+  * [💻 ARM Assembly](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EajmVlWwBlZBtIptqYd42KsBZw3NGQ65Z_DVRVA7422ZuA?e=dvlIPI) [🎞]()
 
+\\<!--
 ### Week 6
   * [CPUs](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EU5SgJXyToBBqAGvrVUl5BYBcCedGT8cEBdfhKVK6O4RuQ?e=gChyhs) [🎞]()
   
@@ -44,4 +45,4 @@ You can download the files *except the videos* through the session made by log-o
 ### Week 15 (Complimentary)
 ### Week 16
   * Final Exam
-
+-->
