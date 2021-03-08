@@ -2,7 +2,7 @@ You can download the files *except the videos* through the session made by log-o
 
 ### Week 1
   * [Course Overview](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EQeSZGpn5lZLtVey8MpmysYBjf-HeuNjASTVXBxhOpSMOg?e=qagN3E)
-  * [Embedded Computing](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ee9fMb3BZzBJksBEqD7L3bcBOz5mempADm1TJkyCbeVGIQ?e=nUHUH9) [[Video]()]
+  * [Embedded Computing](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ee9fMb3BZzBJksBEqD7L3bcBOz5mempADm1TJkyCbeVGIQ?e=nUHUH9) [[🎞Video]()]
 
 ### Week 2 -- 4
   * [Instruction Sets](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EWxvL43NL-xJpGgdi5gkaW0BMYB1fPC8SJNboAvohZz9NQ?e=LrdztW) [[Video]()]
