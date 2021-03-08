@@ -6,10 +6,10 @@ You can download the files *except the videos* through the session made by log-o
 
 ### Week 2 -- 4
   * [Instruction Sets](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EWxvL43NL-xJpGgdi5gkaW0BMYB1fPC8SJNboAvohZz9NQ?e=LrdztW) [[Video]()]
-  * [[Lab] 🍕💻Setup]() [[Video]()]
+  * [💻 Setup]() [[Video]()]
 
 ### Week 5
-  * [[Lab] ARM Assembly]() [[Video]()]
+  * [💻 ARM Assembly]() [[Video]()]
 
 ### Week 6
   * [CPUs](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EU5SgJXyToBBqAGvrVUl5BYBcCedGT8cEBdfhKVK6O4RuQ?e=gChyhs) [[Video]()]
@@ -18,7 +18,7 @@ You can download the files *except the videos* through the session made by log-o
   * [Computing Platforms](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQn3HC5-fOxMvsXNhyqyT3EBl-8iWaxM_jvaoME-AqkVBw?e=IqyhJZ) [[Video]()]
   
 ### Week 8
-  * [[Lab] Memory-Mapped IO]() [[Video]()]
+  * [💻 Memory-Mapped IO]() [[Video]()]
 
 ### Week 9
   * [Program Design and Analysis](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ESrYUPDWWxZHp5IzRiWS4VIBQjx9k2qHrTUn469DXzTvXw?e=epDBdD) [[Video]()]
@@ -27,10 +27,10 @@ You can download the files *except the videos* through the session made by log-o
   * [Processes and Operating Systems](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ea6lsj2ZFehCkS10uIkTSGgBoYVkAj6NORQxXU-TVGIebQ?e=1PdW7h) [[Video]()]
 
 ### Week 11
-  * [[Lab] Device Driver]() [[Video]()]
+  * [💻 Device Driver]() [[Video]()]
 
 ### Week 12 -- 13
-  * [[Mini Project] Accelerator]() [[Video]()]
+  * [💻 Accelerator]() [[Video]()]
     
 ### Week 14
   * [IoT Systems](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EWfAmEXKQeJDnARyuFfN4KsBQfFTKuryyQcEWAPr_3X4zg?e=3PY72F) [[Video]()]
