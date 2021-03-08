@@ -2,8 +2,7 @@ You can download the files *except the videos* through the session made by log-o
 ## Week 1
   * [Course Overview](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ETy7hXw4nNdPs3UoQ8BVieIB9oSwYQ6BLZTtPZLt4m8YmA?e=gy6ZhC) 
 ## Week 2
-  * [Numbers and Arithmetic](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EczEvS99MCJElXZxTmuyWWsBeZUQZGR6DKWcrbiTbAcuag?e=OZU2Kz) ![Video](./video_icon.png)
-  * [[Video](https://youtu.be/ea_cPhka1bQ)]
+  * [Numbers and Arithmetic](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EczEvS99MCJElXZxTmuyWWsBeZUQZGR6DKWcrbiTbAcuag?e=OZU2Kz) [[Video](https://youtu.be/ea_cPhka1bQ)]
   * [Signed Numbers](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ESsLp8hwPelLr-Ci5M8-0swBmgCiup2dqm7NTV6zdDnA-A?e=KRwFFe) [[Video](https://youtu.be/C4cMp6U95e8)]
 ## Week 3
   * [Redundant Number Systems](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ERxPmJWB2IFHnXjZXrq8YsIBvWXlSH4wrVXm_tg5Z-Lshg?e=8UMAWE) [[Video](https://youtu.be/ckNdv6B3mZM)]
