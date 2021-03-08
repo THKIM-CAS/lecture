@@ -18,7 +18,7 @@ You can download the files *except the videos* through the session made by log-o
 
 ### Week 5
   * [🧪Lab2. ARM Assembly](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EajmVlWwBlZBtIptqYd42KsBZw3NGQ65Z_DVRVA7422ZuA?e=dvlIPI) [🎞](https://youtu.be/v47uz8A3neY)
-   * [Introduction to the ARM processor Using ARM Toolchain](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EaaypY1mhQ5MhmNu1Lci08YBbNbhLSsT-EwmM5b5tvA4fQ?e=UHhtS1)
+    * [Introduction to the ARM processor Using ARM Toolchain](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EaaypY1mhQ5MhmNu1Lci08YBbNbhLSsT-EwmM5b5tvA4fQ?e=UHhtS1)
 
 <!--
 ### Week 6
