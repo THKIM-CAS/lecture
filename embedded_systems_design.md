@@ -9,7 +9,7 @@ You can download the files *except the videos* through the session made by log-o
 
 ### Week 3
   * [Lab Operatig Rules](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EURYoo7YuthIsIaAiP_n7CsB-GbxNSfK_v5Y3iI5idgb5w?e=nTRHDN)
-  * [🧪Lab1. Setup](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EVOiD9OKlWBPmnYAIVrUUj0BTlhVyGyNyw-LQmxaO0eKmA?e=vDe0aV) [🎞](https://youtu.be/GobOcBDo2iA)
+  * [🧪Lab1. Setup](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EVOiD9OKlWBPmnYAIVrUUj0BTlhVyGyNyw-LQmxaO0eKmA?e=vDe0aV) [🎞](https://youtu.be/ZAqel8k20LM)
     * [Linux Image for the Labs](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EQbX14uXf81DoWSI-oMyQwMB08rUfoqxbgYILbkEZPocDA?e=DtI5OD)
     * [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/)
     * [Report Template](https://kau365-my.sharepoint.com/:w:/g/personal/taehwan_kim_kau_ac_kr/Eb2LxR5JrtBDm3fOo8VaUn8BQbgiakmidv2pU_MQjT7DLA?e=xhMghy); Download and use this file to write the reports for Lab1 through Lab5.
