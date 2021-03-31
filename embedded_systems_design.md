@@ -21,7 +21,6 @@ You can download the files *except the videos* through the session made by log-o
   * [🧪Lab2. ARM Assembly](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EajmVlWwBlZBtIptqYd42KsBZw3NGQ65Z_DVRVA7422ZuA?e=dvlIPI) [🎞](https://youtu.be/v47uz8A3neY)
     * [Introduction to the ARM processor Using ARM Toolchain](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EaaypY1mhQ5MhmNu1Lci08YBbNbhLSsT-EwmM5b5tvA4fQ?e=UHhtS1)
 
-<!--
 ### Week 6 (Apr. 6 -- Apr. 12)
   * [📝CPUs](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EU5SgJXyToBBqAGvrVUl5BYBcCedGT8cEBdfhKVK6O4RuQ?e=gChyhs) [🎞]()
   
@@ -31,6 +30,7 @@ You can download the files *except the videos* through the session made by log-o
 ### Week 8 (Apr. 20 -- Apr. 26)
   * [🧪Lab3. Memory-Mapped IO](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQb2HfycGbxMo2xmW2K2s-0BPvMflep3SeAI46kkR2ZELg?e=FYCoxa) [🎞](https://youtu.be/7wIsj4VPMLw)
 
+<!--
 ### Week 9 (Apr. 27 -- May 3)
   * [📝Program Design and Analysis](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ESrYUPDWWxZHp5IzRiWS4VIBQjx9k2qHrTUn469DXzTvXw?e=epDBdD) [🎞]()
 
