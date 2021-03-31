@@ -19,13 +19,13 @@ You can download the files *except the videos* through the session made by log-o
 ### Week 6 (Apr. 6 -- Apr. 12)
   * Arithmetic for Computers [🎞](https://youtu.be/IeNaW06Ge8E)
 
-<!--
 ### Week 7 (Apr. 13 -- Apr. 19)
   * The Processor (1/4) [🎞](https://youtu.be/oxYuZWG2yPI)
   
 ### Week 8 (Apr. 20 -- Apr. 26)
   * The Processor (2/4) [🎞](https://youtu.be/k0hdG8NH-mk)
 
+<!--
 ### Week 9 (Apr. 27 -- May 3)
   * Project Guideline [🎞]()
 
