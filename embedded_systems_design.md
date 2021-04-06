@@ -22,20 +22,20 @@ You can download the files *except the videos* through the session made by log-o
     * [Introduction to the ARM processor Using ARM Toolchain](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EaaypY1mhQ5MhmNu1Lci08YBbNbhLSsT-EwmM5b5tvA4fQ?e=UHhtS1)
 
 ### Week 6 (Apr. 6 -- Apr. 12)
-  * [📝CPUs](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EU5SgJXyToBBqAGvrVUl5BYBcCedGT8cEBdfhKVK6O4RuQ?e=gChyhs) [🎞]()
+  * [📝CPUs](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EU5SgJXyToBBqAGvrVUl5BYBcCedGT8cEBdfhKVK6O4RuQ?e=gChyhs) [🎞](https://youtu.be/7MU3a7IVePE)
   
 ### Week 7 (Apr. 13 -- Apr. 19)
-  * [📝Computing Platforms](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQn3HC5-fOxMvsXNhyqyT3EBl-8iWaxM_jvaoME-AqkVBw?e=IqyhJZ) [🎞]()
+  * [📝Computing Platforms](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQn3HC5-fOxMvsXNhyqyT3EBl-8iWaxM_jvaoME-AqkVBw?e=IqyhJZ) [🎞](https://youtu.be/OxmvfApox7w)
   
 ### Week 8 (Apr. 20 -- Apr. 26)
   * [🧪Lab3. Memory-Mapped IO](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQb2HfycGbxMo2xmW2K2s-0BPvMflep3SeAI46kkR2ZELg?e=FYCoxa) [🎞](https://youtu.be/7wIsj4VPMLw)
 
 <!--
 ### Week 9 (Apr. 27 -- May 3)
-  * [📝Program Design and Analysis](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ESrYUPDWWxZHp5IzRiWS4VIBQjx9k2qHrTUn469DXzTvXw?e=epDBdD) [🎞]()
+  * [📝Program Design and Analysis](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ESrYUPDWWxZHp5IzRiWS4VIBQjx9k2qHrTUn469DXzTvXw?e=epDBdD) [🎞](https://youtu.be/894tqO91ZJo)
 
 ### Week 10 (May 4 -- May 10)
-  * [📝Processes and Operating Systems](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ea6lsj2ZFehCkS10uIkTSGgBoYVkAj6NORQxXU-TVGIebQ?e=1PdW7h) [🎞]()
+  * [📝Processes and Operating Systems](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ea6lsj2ZFehCkS10uIkTSGgBoYVkAj6NORQxXU-TVGIebQ?e=1PdW7h) [🎞](https://youtu.be/-ywJL582dbc)
 
 ### Week 11 (May 11 -- May 17)
   * [🧪Lab4. Device Driver](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EerzO17yj9VNkKZ3UaRsUY4BJObGPNZ6wX150hWQnlkvvw?e=EOobYK) [🎞](https://youtu.be/7YmU7R0ytVc)
@@ -44,8 +44,8 @@ You can download the files *except the videos* through the session made by log-o
   * [🧪Lab5. Accelerator](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Efuq2QdMxJ9FsoCv-fW6goIBgrkuBAydRdr_1gpgjTQr0g?e=ln1hFC) [🎞](https://youtu.be/vqxrBQjbU4c)
     
 ### Week 14 (Jun. 1 -- Jun. 7)
-  * [📝IoT Systems](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EWfAmEXKQeJDnARyuFfN4KsBQfFTKuryyQcEWAPr_3X4zg?e=3PY72F) [🎞]()
-  * [📝Embedded Multiprocessors](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Eb5uOkD6ovNPm_Q7ItpFvRkBXOiWXYjphaMsfAH7pbaB4w?e=NtihBf) [🎞]()
+  * [📝IoT Systems](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EWfAmEXKQeJDnARyuFfN4KsBQfFTKuryyQcEWAPr_3X4zg?e=3PY72F) [🎞](https://youtu.be/1YkP_kZKhkk)
+  * [📝Embedded Multiprocessors](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Eb5uOkD6ovNPm_Q7ItpFvRkBXOiWXYjphaMsfAH7pbaB4w?e=NtihBf) [🎞](https://youtu.be/pOxUW3SMtT0)
   
 ### Week 15 (Complimentary) (Jun. 8 -- Jun. 14)
 ### Week 16 (Jun. 15 -- Jun. 21)
