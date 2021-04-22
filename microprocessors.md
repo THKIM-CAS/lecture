@@ -26,8 +26,10 @@ You can download the files *except the videos* through the session made by log-o
   * The Processor (2/4) [🎞](https://youtu.be/k0hdG8NH-mk)
 
 ### Week 9 (Apr. 27 -- May 3)
-  * Project Guideline [🎞]()
-
+  * [Termproject Guideline](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EbvifeBtuzZBu0CCFCNqEKQBLy8rshjTJcLfWgalCIXFbA?e=UTcPF1) [🎞](https://youtu.be/XiSaCWk3YFE)
+   * [Files](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EeRrBy_YCfBAvA54Vyrl4VEBPfDRjbrsUtuEQbV0Lyk7JQ?e=1c9Rf0)
+  * [Using Verilog HDL for Microprocessor Termproject](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EWCVEDm_b5lEuUxqQ5aJhwYBZ32nFsMrNEtGagEyrIH0Fg?e=IxDyBi) [🎞](https://youtu.be/CxOfsPuOeSA)
+   
 ### Week 10 (May 4 -- May 10)
   * The Processor (3/4) [🎞](https://youtu.be/8XmsYLUphWE)
 
