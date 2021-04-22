@@ -40,11 +40,9 @@ You can download the files *except the videos* through the session made by log-o
 ### Week 13 (May 25 -- May 31)
   * Large and Fast: Exploiting Memory Hierarchy (2/2) [🎞](https://youtu.be/MPXve3tjKaY)
   
-<!--
 ### Week 14 (Jun. 1 -- Jun. 7)
   * [Course Summary]()
   
 ### Week 15 (Complimentary) (Jun. 8 -- Jun. 14)
 ### Week 16 (Jun. 15 -- Jun. 21)
   * Final Exam
--->
