@@ -30,7 +30,6 @@ You can download the files *except the videos* through the session made by log-o
 ### Week 8 (Apr. 20 -- Apr. 26)
   * [🧪Lab3. Memory-Mapped IO](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQb2HfycGbxMo2xmW2K2s-0BPvMflep3SeAI46kkR2ZELg?e=FYCoxa) [🎞](https://youtu.be/7wIsj4VPMLw)
 
-<!--
 ### Week 9 (Apr. 27 -- May 3)
   * [📝Program Design and Analysis](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ESrYUPDWWxZHp5IzRiWS4VIBQjx9k2qHrTUn469DXzTvXw?e=epDBdD) [🎞](https://youtu.be/894tqO91ZJo)
 
@@ -40,6 +39,7 @@ You can download the files *except the videos* through the session made by log-o
 ### Week 11 (May 11 -- May 17)
   * [🧪Lab4. Device Driver](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EerzO17yj9VNkKZ3UaRsUY4BJObGPNZ6wX150hWQnlkvvw?e=EOobYK) [🎞](https://youtu.be/7YmU7R0ytVc)
 
+<--
 ### Week 12 -- 13 (May 18 -- May 31)
   * [🧪Lab5. Accelerator](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Efuq2QdMxJ9FsoCv-fW6goIBgrkuBAydRdr_1gpgjTQr0g?e=ln1hFC) [🎞](https://youtu.be/vqxrBQjbU4c)
     
