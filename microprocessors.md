@@ -25,7 +25,6 @@ You can download the files *except the videos* through the session made by log-o
 ### Week 8 (Apr. 20 -- Apr. 26)
   * The Processor (2/4) [🎞](https://youtu.be/k0hdG8NH-mk)
 
-<!--
 ### Week 9 (Apr. 27 -- May 3)
   * Project Guideline [🎞]()
 
@@ -41,6 +40,7 @@ You can download the files *except the videos* through the session made by log-o
 ### Week 13 (May 25 -- May 31)
   * Large and Fast: Exploiting Memory Hierarchy (2/2) [🎞](https://youtu.be/MPXve3tjKaY)
   
+<!--
 ### Week 14 (Jun. 1 -- Jun. 7)
   * [Course Summary]()
   
