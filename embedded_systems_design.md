@@ -41,10 +41,10 @@ You can download the files *except the videos* through the session made by log-o
   * [🧪Lab4. Device Driver](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EerzO17yj9VNkKZ3UaRsUY4BJObGPNZ6wX150hWQnlkvvw?e=EOobYK) [🎞](https://youtu.be/7YmU7R0ytVc)
     * [interrupt_ID.h](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EQ828y-EOC9BsChLxDA1KXAB_479sZ3aIK9caCNzf9D6eA?e=QwrvfY)
 
-<!--
 ### Week 12 -- 13 (May 18 -- May 31)
   * [🧪Lab5. Accelerator](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Efuq2QdMxJ9FsoCv-fW6goIBgrkuBAydRdr_1gpgjTQr0g?e=ln1hFC) [🎞](https://youtu.be/vqxrBQjbU4c)
     
+<!--
 ### Week 14 (Jun. 1 -- Jun. 7)
   * [📝IoT Systems](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EWfAmEXKQeJDnARyuFfN4KsBQfFTKuryyQcEWAPr_3X4zg?e=3PY72F) [🎞](https://youtu.be/1YkP_kZKhkk)
   * [📝Embedded Multiprocessors](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Eb5uOkD6ovNPm_Q7ItpFvRkBXOiWXYjphaMsfAH7pbaB4w?e=NtihBf) [🎞](https://youtu.be/pOxUW3SMtT0)
