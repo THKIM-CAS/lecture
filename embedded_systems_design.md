@@ -43,11 +43,14 @@ You can download the files *except the videos* through the session made by log-o
 
 ### Week 12 -- 13 (May 18 -- May 31)
   * [🧪Lab5. Accelerator](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Efuq2QdMxJ9FsoCv-fW6goIBgrkuBAydRdr_1gpgjTQr0g?e=ln1hFC) [🎞](https://youtu.be/vqxrBQjbU4c)
-    * [Base System](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/ETlKZZd6kP9PoWbwS-nvu6sBtf2KHTffsJ4JIzuCtYOOIg?e=GD6eYh)
-    * [Example System (with custom PIO)](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EZ-mrUUdLCtFuqJ29VRotUsBjNjxg3YNwrX_IA7ReBud2A?e=jRA4jB)
-    * [Example System (with XNORpopcount)](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EXWz_IBOHO5PtNC70j879NUBpcKEGkZTR0DiMEO0dhloGQ?e=XNGPGH)
-    * [Avalon Interface](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ef8SQY1RtlRJmdpeb1PtjgMB_fGfsuP26Gmm3_rMv-eCOg?e=q9Bywl)
-    
+    * Systems for DE1-SoC Board
+      * [Base System](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/ETlKZZd6kP9PoWbwS-nvu6sBtf2KHTffsJ4JIzuCtYOOIg?e=GD6eYh)
+      * [Example System (with custom PIO)](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EZ-mrUUdLCtFuqJ29VRotUsBjNjxg3YNwrX_IA7ReBud2A?e=jRA4jB)
+      * [Example System (with XNORpopcount)](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EXWz_IBOHO5PtNC70j879NUBpcKEGkZTR0DiMEO0dhloGQ?e=XNGPGH)
+    * References
+      * [Avalon Interface](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ef8SQY1RtlRJmdpeb1PtjgMB_fGfsuP26Gmm3_rMv-eCOg?e=q9Bywl)
+      * [Verilog HDL Tutorials]()
+      
 ### Week 14 (Jun. 1 -- Jun. 7)
   * [📝IoT Systems](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EWfAmEXKQeJDnARyuFfN4KsBQfFTKuryyQcEWAPr_3X4zg?e=3PY72F) [🎞](https://youtu.be/1YkP_kZKhkk)
   * [📝Embedded Multiprocessors](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Eb5uOkD6ovNPm_Q7ItpFvRkBXOiWXYjphaMsfAH7pbaB4w?e=NtihBf) [🎞](https://youtu.be/pOxUW3SMtT0)
