@@ -49,7 +49,8 @@ You can download the files *except the videos* through the session made by log-o
       * [Example System (with XNORpopcount)](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EXWz_IBOHO5PtNC70j879NUBpcKEGkZTR0DiMEO0dhloGQ?e=XNGPGH)
     * References
       * [Avalon Interface](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ef8SQY1RtlRJmdpeb1PtjgMB_fGfsuP26Gmm3_rMv-eCOg?e=q9Bywl)
-      * [Verilog HDL Tutorials]()
+      * [Verilog HDL for Circuit Synthesis (1/2)](https://youtu.be/egp8SYCLV5w)
+      * [Verilog HDL for Circuit Synthesis (2/2)](https://youtu.be/zqMoHaf6--U)
       
 ### Week 14 (Jun. 1 -- Jun. 7)
   * [📝IoT Systems](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EWfAmEXKQeJDnARyuFfN4KsBQfFTKuryyQcEWAPr_3X4zg?e=3PY72F) [🎞](https://youtu.be/1YkP_kZKhkk)
