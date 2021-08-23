@@ -1,8 +1,55 @@
 You can download the files *except the videos* through the session made by log-on process with your *KAU office365 account*. The video files are not downloadable; they can be played only via web.
+***
 
-### Week 1 (Aug. 30 -- Sept. 5)
-* [Course Overview](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EcIc19zXPnxPv1dta3JYcrEB4FGkN1Z8GwCIKJo4xfnDQw?e=tFogYQ)
+* Week 1 (Aug. 30 -- Sept. 3)
+  * [Course Overview](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EcIc19zXPnxPv1dta3JYcrEB4FGkN1Z8GwCIKJo4xfnDQw?e=tFogYQ)
 
+* Week 2 (Sept. 6 -- Sept. 10)
+  * [Cell-Based Design & Verilog HDL]() [📽]()
+
+* Week 3 -- 4 (Sept. 13 -- Sept. 24)
+  * [Verilog HDL for Circuit Synthesis (1/2)]() [📽]()
+  * [Verilog HDL for Circuit Synthesis (2/2)]() [📽]()
+  * [Reference: IEEE1364-2005]() [📽]()
+
+* Week 5 (Sept. 27 -- Oct. 1)
+  * [Verilog HDL for Circuit Simulation]() [📽]()
+  * [Tutorial: Tool Setup]() [📽]()
+  * [Tutorial: HDL Simulation]() [📽]()
+
+* Week 6 (Oct. 4 -- Oct. 8)
+  * [HDL Coding Guidelines for Synthesis]() [📽]()
+  * [Lab 1]() [📽]()
+
+* Week 7 (Oct. 11 -- Oct. 15)
+  * [Case Study: Design of an FSM]() [📽]()
+  * [Lab 2]() [📽]()
+
+* Week 8 (Oct. 18 -- Oct. 22)
+  * [Advanced Topics]() [📽]()
+  * [Tutorial: Design for FPGA]() [📽]()
+  * [Reference: DE10-Lite User Manual]() [📽]()
+  * [Lab 3]() [📽]()
+
+* Week 9 (Oct. 25 -- Oct. 29)
+  * [Design under Timing Constrains]() [📽]()
+  * [Reference: Timining Analyzer in Intel Quartus Software]() [📽]() 
+  * [Lab 4]() [📽]()
+
+* Week 10 (Nov. 1 -- Nov. 5)
+  * [Lab 5]() [📽]()
+
+* Week 11 -- 14 (Nov. 8 -- Dec. 3)
+  * [Project Guideline]() [📽]()
+  * Document Templates()
+
+* Week 15 (Dec. 6 -- Dec. 10)
+  * Complimentary
+
+* Week 16 (Dec. 13 -- Dec. 17)
+  * Final Exam
+
+<!--
 ### Week 2 (Sept. 6 -- Sept. 12)
 * [Cell-Based Design & Verilog HDL](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETaJGtwZgwlJvpkI85QXs8YBbk2Kkh9T38lRvfnZEPLrEw?e=5puWM3)
   [[video](https://youtu.be/h1n_TeRyZTA)]
@@ -49,3 +96,4 @@ You can download the files *except the videos* through the session made by log-o
 
 ### Week 15 - 16 (Dec. 6 -- Dec. 19)
 * Final Exam
+-->
