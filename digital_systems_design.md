@@ -12,6 +12,7 @@ You can download the files *except the videos* through the session made by log-o
   * [Verilog HDL for Circuit Synthesis (2/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ERflDSWtqLNJqfX7von2m_EBRjy8C_2l7UOz3wnUsPVVxA?e=krWp1a) [📽](https://www.youtube.com/watch?v=zqMoHaf6--U&list=PLM6BdAX_PUYBIPs44Ey_RFALHY7x6ttG3&index=3&t=32s)
   * [Reference: IEEE1364-2005](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EYmINKeoeQpGhWa6E_4gtCgBWgJU6_u9tj2pHBU3a5t33A?e=0sYx7L)
 
+<!--
 * Week 5 (Sept. 27 -- Oct. 1)
   * [Verilog HDL for Circuit Simulation]() [📽]()
   * [Tutorial: Tool Setup]() [📽]()
