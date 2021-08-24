@@ -5,12 +5,12 @@ You can download the files *except the videos* through the session made by log-o
   * [Course Overview](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EYCzVMSAcXFAqgwHejv01xYBp4ub4uj2IOP5ld8ACDIv8A?e=2yVwmr)
 
 * Week 2 (Sept. 6 -- Sept. 10)
-  * [Cell-Based Design & Verilog HDL]() [📽]()
+  * [Cell-Based Design & Verilog HDL](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EUERpTJKQFlOrRD18-UHQ4EB0OfSdPY8lRGSr-cEyOKySw?e=BmmmK4) [📽](https://www.youtube.com/watch?v=h1n_TeRyZTA&list=PLM6BdAX_PUYBIPs44Ey_RFALHY7x6ttG3&index=1)
 
 * Week 3 -- 4 (Sept. 13 -- Sept. 24)
-  * [Verilog HDL for Circuit Synthesis (1/2)]() [📽]()
-  * [Verilog HDL for Circuit Synthesis (2/2)]() [📽]()
-  * [Reference: IEEE1364-2005]() [📽]()
+  * [Verilog HDL for Circuit Synthesis (1/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EbilEok86XRJi0u_09X-ntUBY4NAEJTu9AS-6HSiLEfZOg?e=W22tQp) [📽](https://www.youtube.com/watch?v=egp8SYCLV5w&list=PLM6BdAX_PUYBIPs44Ey_RFALHY7x6ttG3&index=2&t=168s)
+  * [Verilog HDL for Circuit Synthesis (2/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ERflDSWtqLNJqfX7von2m_EBRjy8C_2l7UOz3wnUsPVVxA?e=krWp1a) [📽](https://www.youtube.com/watch?v=zqMoHaf6--U&list=PLM6BdAX_PUYBIPs44Ey_RFALHY7x6ttG3&index=3&t=32s)
+  * [Reference: IEEE1364-2005](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EYmINKeoeQpGhWa6E_4gtCgBWgJU6_u9tj2pHBU3a5t33A?e=0sYx7L)
 
 * Week 5 (Sept. 27 -- Oct. 1)
   * [Verilog HDL for Circuit Simulation]() [📽]()
