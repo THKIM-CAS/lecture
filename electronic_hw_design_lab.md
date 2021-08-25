@@ -1,4 +1,4 @@
-You can download the files *except the 📽* through the session made by log-on process with your *KAU office365 account*. The 📽 files are not downloadable; they can be played only via web.
+You can download the files *except the 📽* through the session made by log-on process with your *KAU office365 account*. The 📽 files are not downloadable; they can be played only via web!
 ***
 
 * Week 1 (Aug. 29 -- Sept. 4)
@@ -11,6 +11,7 @@ You can download the files *except the 📽* through the session made by log-on 
   [[📽](https://youtu.be/aGdNDza5ozQ)]
   * [Reference: Introduction to the Intel® Nios® II Soft Processor](https://ftp.intel.com/Public/Pub/fpgaup/pub/Teaching_Materials/current/Tutorials/Nios2_introduction.pdf)
   * [Reference: Nios II Processor Reference Guide](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/nios2/n2cpu-nii5v1gen2.pdf)
+
 <!--
 * Week 4 (Sept. 19 -- Sept. 25)
   * [Design Example (ASM)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EZJ_U8c5rrRDnA05Bvnn6g8BtsoLKyMRt-8YATk9-nXwZg?e=SD0gOW) [[📽](https://youtu.be/yHKBPAc6gG0)]
