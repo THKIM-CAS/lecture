@@ -3,6 +3,7 @@ include:
   - digital_systems_design.md
   - microprocessors.md
   - embedded_systems_design.md
+  - hd.md
   
 locale: "ko-KR"
 name: something
