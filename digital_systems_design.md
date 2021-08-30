@@ -2,7 +2,7 @@ You can download the files *except the videos* through the session made by log-o
 ***
 
 * Week 1 (Aug. 30 -- Sept. 3)
-  * [Course Overview](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EYCzVMSAcXFAqgwHejv01xYBp4ub4uj2IOP5ld8ACDIv8A?e=2yVwmr)
+  * [Course Overview](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EYCzVMSAcXFAqgwHejv01xYBThVB4A19xBNhfqLs9dDiqQ?e=T0h9Ct)
 
 * Week 2 (Sept. 6 -- Sept. 10)
   * [Cell-Based Design & Verilog HDL](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EUERpTJKQFlOrRD18-UHQ4EB0OfSdPY8lRGSr-cEyOKySw?e=BmmmK4) [📽](https://www.youtube.com/watch?v=h1n_TeRyZTA&list=PLM6BdAX_PUYBIPs44Ey_RFALHY7x6ttG3&index=1)
