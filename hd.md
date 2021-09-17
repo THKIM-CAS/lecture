@@ -12,17 +12,17 @@ You can download the files *except the 📽* through the session made by log-on 
   * [Reference: Introduction to the Intel® Nios® II Soft Processor](https://ftp.intel.com/Public/Pub/fpgaup/pub/Teaching_Materials/current/Tutorials/Nios2_introduction.pdf)
   * [Reference: Nios II Processor Reference Guide](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/nios2/n2cpu-nii5v1gen2.pdf)
 
-<!--
 * Week 4 (Sept. 19 -- Sept. 25)
-  * [Design Example (ASM)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EZJ_U8c5rrRDnA05Bvnn6g8BtsoLKyMRt-8YATk9-nXwZg?e=SD0gOW) [[📽](https://youtu.be/yHKBPAc6gG0)]
-    * [University Program Installer](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/Ee6X6NL0nkNKnVsKEM9IMmUBZOky1csiD-kJeCgwDPAgsA?e=W68sEp)
+  * [Design Example (ASM)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EelA_0iefXxOnqQjWpl2M70B53gw2fbuLD29Q2b_u0RLaA?e=Al5v6i) [📽](https://youtu.be/yHKBPAc6gG0)
+    * [University Program Installer](https://ftp.intel.com/Public/Pub/fpgaup/pub/Intel_Material/18.1/intel_fpga_upds_setup.exe)
     * [Reference: Monitor Program Tutorial](https://ftp.intel.com/Public/Pub/fpgaup/pub/Teaching_Materials/current/tutorials/Intel_FPGA_Monitor_Program_NiosII.pdf)
-  * [Lab 1](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETOaPDS4fFxFkj5V94L3pNgB6mJ6oWuYeM5eNVQILWr0sA?e=5T5Np1) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ef6k5-K004RGtITjupWHOcAB8ugVa3axk39nt_wLiyFiKw?e=0oroog) [[📽](https://youtu.be/YgCgvh5b4oQ)]
+  * [Lab 1](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EXUXlLoHBB1AgIEnkNPk6kcBjsaWQfC7R4u_nHJkwWtUxQ?e=cdqHkg) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EeWe6uugKPtCnV6fYLXCWt4BUa0sFlBApJhq8hIc9-vK2g?e=Wqnxbd) [📽](https://youtu.be/YgCgvh5b4oQ)
 
 * Week 5 (Sept. 26 -- Oct. 2)
-  * [Lab 2](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ERCdWBAYiU5EgKl0lFsxsLsBjDViRdX4TyK5KFipdXGDTg?e=eKYbuz) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQ1ETm_TOqtEmB8LtN-VyWcBtKRZUlyrF0WgLyAq1pHGiw?e=iG1iHL) [[📽](https://youtu.be/l9mmJ24K3I0)]
-    * [address_map_nios2.s](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EWCFFzdIMZhEqdT8WgE7J0wBhpf6lbpAAu4QEgYfiTnrAw?e=hlJOcH)
+  * [Lab 2](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EZAp29NZdwJKha9OxeAqrw4B8SkaAQ2BH_SBGggkNf6czA?e=FLlS6n) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EY1d1MervvZEhkhHmlIPXWYB9pf0xZuYYoueBqDv4OO1mQ?e=9mkf8S) [📽](https://youtu.be/l9mmJ24K3I0)
+    * [address_map_nios2.s](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EVtI7peyKJxNrVp7f_z56FcBOrdUvpzM6m7zVmWGE4QF3A?e=G4IKiy)
 
+<!--
 * Week 6 (Oct. 3 -- Oct. 9)
   * [Lab 3](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EXqtGlrLd9VAkAdzVBMFqdgBJbTkDA9erWz7N-OKVyHccA?e=vimEe8) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EV_DUO0T_BhLvEjxasxE9rUBxwwAoirxEQ2FOrweRWDAqw?e=MW12e5) [[📽](https://youtu.be/DAYmT2QuQ7o)]
 
