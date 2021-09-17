@@ -12,16 +12,16 @@ You can download the files *except the videos* through the session made by log-o
   * [Verilog HDL for Circuit Synthesis (2/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ERflDSWtqLNJqfX7von2m_EBRjy8C_2l7UOz3wnUsPVVxA?e=krWp1a) [📽](https://www.youtube.com/watch?v=zqMoHaf6--U&list=PLM6BdAX_PUYBIPs44Ey_RFALHY7x6ttG3&index=3&t=32s)
   * [Reference: IEEE1364-2005](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EYmINKeoeQpGhWa6E_4gtCgBWgJU6_u9tj2pHBU3a5t33A?e=0sYx7L)
 
-<!--
 * Week 5 (Sept. 27 -- Oct. 1)
-  * [Verilog HDL for Circuit Simulation]() [📽]()
-  * [Tutorial: Tool Setup]() [📽]()
-  * [Tutorial: HDL Simulation]() [📽]()
+  * [Verilog HDL for Circuit Simulation](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EarrWeASlNtLkNyChYzWuFUBS6172eFCtr7hmvG77CEXew?e=Rm7uTa) [📽](https://youtu.be/GoNXzIoO724)
+  * [Tutorial: Tool Setup](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EcVsrvWMzoVEly53j8Ug8lsBlXSbgxnxowCV2YRptyLnqQ?e=UFN3oP)
+  * [Tutorial: Demonstration of HDL Simulation Using ModelSim](https://youtu.be/1Pgb5fg5Uv8)
 
 * Week 6 (Oct. 4 -- Oct. 8)
-  * [HDL Coding Guidelines for Synthesis]() [📽]()
-  * [Lab 1]() [📽]()
+  * [HDL Coding Guidelines for Synthesis](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EaUuI81SDfdDowEBvkTYlxMBubN6xqQJXbPqbqrTKMD8FA?e=4XXoU4) [📽](https://youtu.be/-z7_KRf4SO8)
+  * [Lab 1](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EVkfYz6jVjVMgBnUIgwPn4wBEwpf40q4fjg-m2YrvCh-Eg?e=0fjMbc) [📽](https://youtu.be/6mfmOVyN4JU)
 
+<!--
 * Week 7 (Oct. 11 -- Oct. 15)
   * [Case Study: Design of an FSM]() [📽]()
   * [Lab 2]() [📽]()
