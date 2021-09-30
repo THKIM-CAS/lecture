@@ -22,16 +22,16 @@ You can download the files *except the 📽* through the session made by log-on 
   * [Lab 2](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EZAp29NZdwJKha9OxeAqrw4B8SkaAQ2BH_SBGggkNf6czA?e=FLlS6n) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EY1d1MervvZEhkhHmlIPXWYB9pf0xZuYYoueBqDv4OO1mQ?e=9mkf8S) [📽](https://youtu.be/l9mmJ24K3I0)
     * [address_map_nios2.s](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EVtI7peyKJxNrVp7f_z56FcBOrdUvpzM6m7zVmWGE4QF3A?e=G4IKiy)
 
-<!--
 * Week 6 (Oct. 3 -- Oct. 9)
-  * [Lab 3](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EXqtGlrLd9VAkAdzVBMFqdgBJbTkDA9erWz7N-OKVyHccA?e=vimEe8) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EV_DUO0T_BhLvEjxasxE9rUBxwwAoirxEQ2FOrweRWDAqw?e=MW12e5) [[📽](https://youtu.be/DAYmT2QuQ7o)]
+  * [Lab 3](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQ8fxjDUTq5Lv_JULeRebUkBxss-tdeBWJREwoGgXu1-Wg?e=Ljg7kx) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EXPjqU__ZV9LuBQ6PJpnpdwBs6T8TpeNeBTlzUrWwuK7QQ?e=62yKeu) [📽](https://youtu.be/DAYmT2QuQ7o)
 
 * Week 7 (Oct. 10 -- Oct. 16)
-  * [Lab 4](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EfMHE0_deBdBtyYMe5Ot_qMB84CQ9OjRD9pPJpmVTHNZCA?e=oiSd66) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ef44eI56j4JBtyyeRxpsgXIB6HPoZRkBptGTINs3y5ClSg?e=k3K6ye) [[📽](https://youtu.be/13EKDvgbS1c)]
-    * [Reference: DE1-SoC Computer System with Nios-II](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQpZq2oQx6RDviUAuG2a0nYBoywE5RUBdFvOKabvhCmNcg?e=grHcvh)
-    * [Reference: Parallel Port for Intel DE-Series Boards](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQ_t3ICpfDNGtCc4r8bhq2UB60Ca2-CBwOZZOqz1aBO2Wg?e=WuqSSc)
-    * [Reference: Interval Timer Core](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ERM9YEWWfjBDhbXjOhgHN3MBqjcX0WzHkTmkOb1fWoNqoQ?e=4D2Ajj)
+  * [Lab 4](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EZVJAIaTuwJKgz1CZhjVLQQBZoLO0Kui9emPGXoTQWWB8g?e=pbTf1y) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Edd6JhNwY3NCiZDofCYFj-ABkMadpa35fOoGeI9t5qSibQ?e=VSwVI8) [📽](https://youtu.be/13EKDvgbS1c)
+    * [Reference: DE1-SoC Computer System with Nios-II](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EfMOH80RDldMmR0b9ereGVoBnbROMmyxL8fM0GnLJtWzaA?e=fbOeZf)
+    * [Reference: Parallel Port for Intel DE-Series Boards](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EdCajFkBI61PiYpdxBP6YvABaHSPM_jcYn5BNtEP9OQV-Q?e=1NVKET)
+    * [Reference: Interval Timer Core](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EUwv_akCsHBOlJhwPI6zgUQBFrAODjy1gllzShZlOnaUFA?e=ScZEps)
 
+<!--
 * Week 8 (Oct. 17 -- Oct. 23)
   * [Lab 5](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ESPmeuoaC3RFogcBcC8uDnkBsKzUDitMlfdqAYVlfzXLLg?e=e1BWhq) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQlYN-E69NJDu-I8Olw6sVMBWKEsY1GbsGt9Jp6g6Owy8A?e=dUT1aZ) [[📽](https://youtu.be/u5jo8iYkd7A)]
     * [Reference: Introduction to the Intel Nios-II Soft Processor](https://ftp.intel.com/Public/Pub/fpgaup/pub/Teaching_Materials/current/Tutorials/Nios2_introduction.pdf)
