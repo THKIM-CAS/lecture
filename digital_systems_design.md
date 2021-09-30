@@ -21,11 +21,11 @@ You can download the files *except the videos* through the session made by log-o
   * [HDL Coding Guidelines for Synthesis](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EaUuI81SDfdDowEBvkTYlxMBubN6xqQJXbPqbqrTKMD8FA?e=4XXoU4) [📽](https://youtu.be/-z7_KRf4SO8)
   * [Lab 1](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EVkfYz6jVjVMgBnUIgwPn4wBEwpf40q4fjg-m2YrvCh-Eg?e=0fjMbc) [📽](https://youtu.be/6mfmOVyN4JU)
 
-<!--
 * Week 7 (Oct. 11 -- Oct. 15)
-  * [Case Study: Design of an FSM]() [📽]()
-  * [Lab 2]() [📽]()
+  * [Case Study: Design of an FSM](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EbWs5HcgHU9EmQVxk2O2NIEBMy9o2wkFtboi9tdjs3Ipug?e=s6ZxpM) [📽](https://youtu.be/txVkgCLXv6I)
+  * [Lab 2](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ebng9n_DggtArADucJdhA2cBrWXLcWPNWFmVYIbHD1mhdA?e=JSV4Qw) [📽](https://youtu.be/AU9TkH3_zuY)
 
+<!--
 * Week 8 (Oct. 18 -- Oct. 22)
   * [Advanced Topics]() [📽]()
   * [Tutorial: Design for FPGA]() [📽]()
