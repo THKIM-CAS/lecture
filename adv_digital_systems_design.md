@@ -15,10 +15,17 @@ You can download the files *except the videos* through the session made by log-o
 ## Week 6
   * [Multi-Operand Addition](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EYK9sp6_JjdMtQTcOrx4kt8Buacn-jyyyVB0zXKoK0rBcg?e=uPgPld) [🎞](https://youtu.be/HR_OeOiV4R8)
 ## Week 7
+  * [Basic Multiplication]() [🎞]()
+  * [High-Radix Multiplier]() [🎞]()
 ## Week 8
+  * [Tree and Array Multipliers]() [🎞]()  
 ## Week 9
+  * [Variations in Multipliers]() [🎞]()
 ## Week 10
+  * [Basic Division Schemes]() [🎞]()
 ## Week 11
+  * [High-Radix Dividers]() [🎞]()
+  * [Division by Convergence]() [🎞]()
 ## Week 12
 ## Week 13
 ## Week 14
