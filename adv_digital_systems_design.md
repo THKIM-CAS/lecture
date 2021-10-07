@@ -16,7 +16,7 @@ You can download the files *except the videos* through the session made by log-o
   * [Multi-Operand Addition](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EYK9sp6_JjdMtQTcOrx4kt8Buacn-jyyyVB0zXKoK0rBcg?e=uPgPld) [🎞](https://youtu.be/HR_OeOiV4R8)
 ## Week 7
   * [Basic Multiplication](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ESRxEMVZOjxIvhvrKB10EacB-5LTbTgXjEcrQHx_NGfUvg?e=0S6O5e) [🎞](https://youtu.be/4-1ArIIFOdo)
-  * [High-Radix Multiplier](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQpjgyUrza9Fu2ZS-efVfewB96ciwFmpNUOD9FdMktVcTw?e=qeMZ89) [🎞]()
+  * [High-Radix Multiplier](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQpjgyUrza9Fu2ZS-efVfewB96ciwFmpNUOD9FdMktVcTw?e=qeMZ89) [🎞](https://youtu.be/89P3VZydujw)
 ## Week 8
   * [Tree and Array Multipliers](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EU8oWlBQPhJKhOfKBnt-GzAB3yv4HeM7qghSUXU7qB8r5Q?e=hZJrb8) [🎞](https://youtu.be/rLPhjbO_FmI)  
 ## Week 9
