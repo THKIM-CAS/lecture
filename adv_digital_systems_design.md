@@ -15,17 +15,17 @@ You can download the files *except the videos* through the session made by log-o
 ## Week 6
   * [Multi-Operand Addition](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EYK9sp6_JjdMtQTcOrx4kt8Buacn-jyyyVB0zXKoK0rBcg?e=uPgPld) [🎞](https://youtu.be/HR_OeOiV4R8)
 ## Week 7
-  * [Basic Multiplication]() [🎞]()
-  * [High-Radix Multiplier]() [🎞]()
+  * [Basic Multiplication](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ESRxEMVZOjxIvhvrKB10EacB-5LTbTgXjEcrQHx_NGfUvg?e=0S6O5e) [🎞](https://youtu.be/4-1ArIIFOdo)
+  * [High-Radix Multiplier](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQpjgyUrza9Fu2ZS-efVfewB96ciwFmpNUOD9FdMktVcTw?e=qeMZ89) [🎞]()
 ## Week 8
-  * [Tree and Array Multipliers]() [🎞]()  
+  * [Tree and Array Multipliers](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EU8oWlBQPhJKhOfKBnt-GzAB3yv4HeM7qghSUXU7qB8r5Q?e=hZJrb8) [🎞](https://youtu.be/rLPhjbO_FmI)  
 ## Week 9
-  * [Variations in Multipliers]() [🎞]()
+  * [Variations in Multipliers](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ER-U_Us8tEBMt1xWcIXRT8cBRZM2V4lHPLtZ5b1x8cn0Rg?e=in4ujW) [🎞](https://youtu.be/SqTrDV9ydXM)
 ## Week 10
-  * [Basic Division Schemes]() [🎞]()
+  * [Basic Division Schemes](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EXWOmY-iyHVEodJYGB72oSABxwcYU-UUOw8tJCxCHR6DPg?e=VqFab5) [🎞](https://youtu.be/uaEViibw_Kc)
 ## Week 11
-  * [High-Radix Dividers]() [🎞]()
-  * [Division by Convergence]() [🎞]()
+  * [High-Radix Dividers](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETxnnvFN7kFOrmv3uhGMnAABWO9sUJDSr8aVmsex-d3UPQ?e=9FiZ3v) [🎞](https://youtu.be/0csQIa1hRiY)
+  * [Division by Convergence](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EZ40wVWD531FhdtG4aXYj14B64CPjH_pTvvnJUQjAR2o9Q?e=86vxQQ) [🎞](https://youtu.be/jNhlXpMJUfg)
 ## Week 12
 ## Week 13
 ## Week 14
