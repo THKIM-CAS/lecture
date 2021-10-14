@@ -25,21 +25,21 @@ You can download the files *except the videos* through the session made by log-o
   * [Case Study: Design of an FSM](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EbWs5HcgHU9EmQVxk2O2NIEBMy9o2wkFtboi9tdjs3Ipug?e=s6ZxpM) [📽](https://youtu.be/txVkgCLXv6I)
   * [Lab 2](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ebng9n_DggtArADucJdhA2cBrWXLcWPNWFmVYIbHD1mhdA?e=JSV4Qw) [📽](https://youtu.be/AU9TkH3_zuY)
 
-<!--
 * Week 8 (Oct. 18 -- Oct. 22)
-  * [Advanced Topics]() [📽]()
+  * [Advanced Topics](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQoOZeadFdBNu5AEBvKPLlMBgQreib2ja03tF5zvEXGVZQ?e=S6sv7z) [📽]()
   * [Tutorial: Design for FPGA]() [📽]()
-  * [Reference: DE10-Lite User Manual]() [📽]()
-  * [Lab 3]() [📽]()
+  * [Lab 3](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ESwzZPbeNgJMqJfQf2JSIlMBd_sIdZWn-dygUz6Y70BFqw?e=apXn4O) [📽](https://youtu.be/z5ublc8a4wg)
+  * [Reference: DE10-Lite User Manual](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ET63LjOxAQ1FsfI5ZYRFRsoBV6WhLo8GM73uGHvTK7cQ3A?e=BTkhRU)
 
 * Week 9 (Oct. 25 -- Oct. 29)
-  * [Design under Timing Constrains]() [📽]()
-  * [Reference: Timining Analyzer in Intel Quartus Software]() [📽]() 
-  * [Lab 4]() [📽]()
+  * [Design under Timing Constrains](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EbokW3jbUMJHiMy9-DVfxmkBOYn4JGZ43ZqLxx9AHDE7hA?e=cWftwe) [📽](https://youtu.be/_uMOuuVGAl0)
+  * [Lab 4](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EbMcvoResApEmxF-DMXvS38BXU0GOIiMwyoiCwAVjWWK6Q?e=XoUEpt) [📽](https://youtu.be/WOTai7Cj9aQ)
+  * [Reference: Timining Analyzer in Intel Quartus Software](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EWAGnSlno95HvfFl663_wiYBhgEzMO5L_xqZUj9SfljuRA?e=DGtgSs)
 
 * Week 10 (Nov. 1 -- Nov. 5)
-  * [Lab 5]() [📽]()
+  * [Lab 5](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ec7WVDN-AzhLpOjONxQQvhkBY5uxaEpV_qx84I0gQOWI9w?e=lbIilH) [📽](https://youtu.be/DAEkAu3y5JM)
 
+<!--
 * Week 11 -- 14 (Nov. 8 -- Dec. 3)
   * [Project Guideline]() [📽]()
   * Document Templates()
