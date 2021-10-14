@@ -31,24 +31,24 @@ You can download the files *except the 📽* through the session made by log-on 
     * [Reference: Parallel Port for Intel DE-Series Boards](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EdCajFkBI61PiYpdxBP6YvABaHSPM_jcYn5BNtEP9OQV-Q?e=1NVKET)
     * [Reference: Interval Timer Core](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EUwv_akCsHBOlJhwPI6zgUQBFrAODjy1gllzShZlOnaUFA?e=ScZEps)
 
-<!--
 * Week 8 (Oct. 17 -- Oct. 23)
-  * [Lab 5](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ESPmeuoaC3RFogcBcC8uDnkBsKzUDitMlfdqAYVlfzXLLg?e=e1BWhq) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQlYN-E69NJDu-I8Olw6sVMBWKEsY1GbsGt9Jp6g6Owy8A?e=dUT1aZ) [[📽](https://youtu.be/u5jo8iYkd7A)]
-    * [Reference: Introduction to the Intel Nios-II Soft Processor](https://ftp.intel.com/Public/Pub/fpgaup/pub/Teaching_Materials/current/Tutorials/Nios2_introduction.pdf)
-    * [Reference: DE1-SoC Computer System with Nios-II](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQpZq2oQx6RDviUAuG2a0nYBoywE5RUBdFvOKabvhCmNcg?e=grHcvh)
+  * [Lab 5](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EcYxIx9qZ9xBjAICMiqLOXQB3Cd5DzJJxrFWC7OqRqqTkw?e=X3HG1d) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ERJazMda7_5Mihi76rtSahgB40Q7xVvvQ2qwlGmSWKUJsw?e=81X2RI) [📽](https://youtu.be/u5jo8iYkd7A)
+    * [Reference: Introduction to the Intel® Nios® II Soft Processor](https://ftp.intel.com/Public/Pub/fpgaup/pub/Teaching_Materials/current/Tutorials/Nios2_introduction.pdf)
+    * [Reference: DE1-SoC Computer System with Nios® II](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EfMOH80RDldMmR0b9ereGVoBnbROMmyxL8fM0GnLJtWzaA?e=fbOeZf)
 
 * Week 9 (Oct. 24 -- Oct. 30)
-  * [Design Example (C)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETHfKkt38vxDour3TmZe-6wBW708e9hxO3a1ANGg577p9w?e=fRQpSb) [[📽](https://youtu.be/-17FYGDyits)]
-  * [Lab 6](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EUdm_h8qORpOjy9o8ihOKTUBc8lI7WgTBXRAwnRLxohqZg?e=wuu1jv) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EWw6IMg5-FZAujASlDLrvSYBG5va7m9AUQmxifteTKXnLA?e=iCI3Vy)[[📽](https://youtu.be/i98wuep4-Mw)]
-    * [address_map_nios2.h](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/ESsbXVeky3RBtYXxc6z0ybsBJDTtI5-3l7Rrf9QbTyioqw?e=WehHEM)
+  * [Design Example (C)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETG8thNpWyVItfDp_hNpEgUBot0pMDT2CPwwm3kj4jMTGQ?e=kq5kYI) [📽](https://youtu.be/-17FYGDyits)
+  * [Lab 6](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EfUNcUXbR4tIvALKSP625q8B5LiKGIzdxc_9KYCgK5hKvw?e=6qm2Zg) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQN4P3-EaKNNtHGnIgonwQsBnRcADuFvR6UEO6spIg6rxg?e=8qeNVd) [📽](https://youtu.be/i98wuep4-Mw)
+    * [address_map_nios2.h](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/Ed6KUhzKpfBLu56cEH9icI4BFk5EqzVWS_EX93nr3f56AQ?e=nGY1Ll)
 
 * Week 10 (Oct. 31 -- Nov. 6)
-  * [Lab 7](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EVpHY4pS42hEtLG5K8e2djsB29zvaKdY9IoDxjSisFSB5g?e=BKMXsc) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EcqDhXljzlFNiJgZC_WF3jgB18NM8C3_3NyH13TkvTA7NA?e=6Gwx2T) [[📽](https://youtu.be/bNvQB7kGq88)]
-    * [nios2_ctrl_reg_macros.h](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/Ec-KKN90JzRGjQ2LeokEbA8Bunqii-Wue5FzNkEcgWTl5g?e=cT1ei4)
+  * [Lab 7](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ER2M1pdg-E1Hs3Y0bCm2HGgByycOBdKLH-m59XwKXoFN9Q?e=Hg68a5) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EU1luJ1QW21IogpnHqfqOiUBAsFP1YIFo-PibE5OYHH-mA?e=pMPd5g) [📽](https://youtu.be/bNvQB7kGq88)
+    * [nios2_ctrl_reg_macros.h](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EUIWC_Cqz4VFkLU9opQlI-0BcBqRX82t8-Qj1ihmdB4N1Q?e=qr8VKH)
   
 * Week 11 (Nov. 7 -- Nov. 13)
-  * [Lab 8](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETfcMHEA4sNCo_LapbGZjA4B4W1vELH9-UFRG8S6Lpr4ZQ?e=AI2gIc) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EaGrW_A3Ca9DpamWWhcIfb0BLky7BdHLfDLvQvVxXX40SA?e=QCfPEf) [[📽](https://youtu.be/Qes8JttiBuk)]
+  * [Lab 8](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQkXskfyNcBMulzWGzCdl80BYxDTy7JmjQLTjlGNOhfGaQ?e=p7oRQ9) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EffLLNzJX1FOshd1XeiVMFABP26FBoc2qZRJBmdyibQe-A?e=lc3JUh) [📽](https://youtu.be/Qes8JttiBuk)
 
+<!--
 * Week 12 -- 14 (Nov. 14 -- Dec. 4)
   * [Project Guideline](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/Ed358l95S09HiIQ4kwQ6_RkBbw3RYfal6wKfiKsCHud8pg?e=Gc90Sr)
     * Document Templates: [계획서](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ERchmN7JprdAvBzBzg7nkloBJF_qiTrINPaFA_7kivmSDQ?e=xdGIvp), [중간시연보고서](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EYddSKOG475Ioj5eCjGQ1scBiaZP9y1U5iUOSufx_QerZA?e=Pb2qqo), [결과보고서](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EWJEy0iVCCpDjIqCxjckvAEB5_hW0qJdIRmKEaINwR_Q9w?e=7GrlSY)
