@@ -26,7 +26,7 @@ You can download the files *except the videos* through the session made by log-o
   * [Lab 2](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ebng9n_DggtArADucJdhA2cBrWXLcWPNWFmVYIbHD1mhdA?e=JSV4Qw) [📽](https://youtu.be/AU9TkH3_zuY)
 
 * Week 8 (Oct. 18 -- Oct. 22)
-  * [Advanced Topics](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQoOZeadFdBNu5AEBvKPLlMBgQreib2ja03tF5zvEXGVZQ?e=S6sv7z) [📽]()
+  * [Advanced Topics](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQoOZeadFdBNu5AEBvKPLlMBgQreib2ja03tF5zvEXGVZQ?e=S6sv7z) [📽](https://youtu.be/6bHXDyPYpxM)
   * [Tutorial: Demonstration of Design for FPGA](https://youtu.be/nBQUZjF9ia8)
   * [Lab 3](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ESwzZPbeNgJMqJfQf2JSIlMBd_sIdZWn-dygUz6Y70BFqw?e=apXn4O) [📽](https://youtu.be/z5ublc8a4wg)
   * [Reference: DE10-Lite User Manual](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ET63LjOxAQ1FsfI5ZYRFRsoBV6WhLo8GM73uGHvTK7cQ3A?e=BTkhRU)
