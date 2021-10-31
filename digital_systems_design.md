@@ -41,7 +41,7 @@ You can download the files *except the videos* through the session made by log-o
   
 * Week 11 -- 14 (Nov. 8 -- Dec. 3)
   * [Project Guideline]() [📽]()
-  * Document Templates()
+  * [Document Templates]()
 
 * Week 15 (Dec. 6 -- Dec. 10)
   * Complimentary
