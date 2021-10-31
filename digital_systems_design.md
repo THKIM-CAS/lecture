@@ -40,7 +40,7 @@ You can download the files *except the videos* through the session made by log-o
   * [Lab 5](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ec7WVDN-AzhLpOjONxQQvhkBY5uxaEpV_qx84I0gQOWI9w?e=lbIilH) [📽](https://youtu.be/DAEkAu3y5JM)
   
 * Week 11 -- 14 (Nov. 8 -- Dec. 3)
-  * [Project Guideline]() [📽]()
+  * [Project Guideline]()
   * [Document Templates]()
 
 * Week 15 (Dec. 6 -- Dec. 10)
