@@ -27,8 +27,12 @@ You can download the files *except the videos* through the session made by log-o
   * [High-Radix Dividers](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETxnnvFN7kFOrmv3uhGMnAABWO9sUJDSr8aVmsex-d3UPQ?e=9FiZ3v) [🎞](https://youtu.be/0csQIa1hRiY)
   * [Division by Convergence](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EZ40wVWD531FhdtG4aXYj14B64CPjH_pTvvnJUQjAR2o9Q?e=86vxQQ) [🎞](https://youtu.be/jNhlXpMJUfg)
 ## Week 12
+  * [Square-Rooting Methods](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQG8DNeM489CjlYHrq-HkGUBWyy_gb8bSY9qrkQR58rf5A?e=BuB3tc) [🎞](https://youtu.be/nBRl626JDgE)
+  * [CORDIC Algorithms](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETcYKArCrtxNgeQzcTvOCL4Bt-pzRGDcTE0DIDXD71Z5-g?e=Vu01RP) [🎞](https://youtu.be/W-8HsT2vzq4)
 ## Week 13
+  * [Variations in Function Evaluation](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ee9ErTU5a4NEgrKx1Tl2lCkBF4jGCxH_vPTrVENc7BD3kg?e=bosVEe) [🎞](https://youtu.be/B8Lhx7XzHe4)
 ## Week 14
+  * [Arithmetic by Table Lookup](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EaPMZNgZZ79Do-cMSLEJbuUBQe8MLJ4o5mGNEh2fgbaNDQ?e=UwYJDW) [🎞](https://youtu.be/EFjLSJPB558)
 ## Week 15 (Complimentary)
 ## Week 16
   * Final Exam
