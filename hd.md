@@ -49,8 +49,8 @@ You can download the files *except the 📽* through the session made by log-on 
   * [Lab 8](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQkXskfyNcBMulzWGzCdl80BYxDTy7JmjQLTjlGNOhfGaQ?e=p7oRQ9) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EffLLNzJX1FOshd1XeiVMFABP26FBoc2qZRJBmdyibQe-A?e=lc3JUh) [📽](https://youtu.be/Qes8JttiBuk)
 
 * Week 12 -- 14 (Nov. 14 -- Dec. 4)
-  * [Design Project]()
-    * Document Templates: [계획서](), [중간시연보고서](), [결과보고서]()
+  * [Design Project](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ESfQylwtYARLuPsyrXKBDXcBG6JYb4EuObCq7jeCVzc5hg?e=xu0Dc4)
+    * Document Templates: [계획서](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EdmQKeJqVHBMpt9XEyXcLgcB08KRcNmdIxMqFzeqccZeCw?e=TIhWMS), [중간시연보고서](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EQN8_81h9SNCqa7RoQHwJKsBFMaLr3JwfUogPbW-xhMgMQ?e=IKjWKo), [결과보고서](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EdqlgHGBLVBMrdkfKVAxt3MBm7PRiOkAnvtcr0jwRaNdsw?e=ldIwPk)
 
 * Week 15 (Dec. 5 -- Dec. 11): Complimentary
 * Week 16 (Dec. 12 -- Dec. 18): Final Exam
