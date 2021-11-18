@@ -52,5 +52,5 @@ You can download the files *except the 📽* through the session made by log-on 
   * [Design Project]()
     * Document Templates: [계획서](), [중간시연보고서](), [결과보고서]()
 
-* Week 15 (Nov. 14 -- Dec. 4): Complimentary
-* Week 16 (Nov. 14 -- Dec. 4): Final Exam
+* Week 15 (Dec. 5 -- Dec. 11): Complimentary
+* Week 16 (Dec. 12 -- Dec. 18): Final Exam
