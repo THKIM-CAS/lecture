@@ -48,13 +48,9 @@ You can download the files *except the 📽* through the session made by log-on 
 * Week 11 (Nov. 7 -- Nov. 13)
   * [Lab 8](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQkXskfyNcBMulzWGzCdl80BYxDTy7JmjQLTjlGNOhfGaQ?e=p7oRQ9) / [Preview](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EffLLNzJX1FOshd1XeiVMFABP26FBoc2qZRJBmdyibQe-A?e=lc3JUh) [📽](https://youtu.be/Qes8JttiBuk)
 
-<!--
 * Week 12 -- 14 (Nov. 14 -- Dec. 4)
-  * [Project Guideline](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/Ed358l95S09HiIQ4kwQ6_RkBbw3RYfal6wKfiKsCHud8pg?e=Gc90Sr)
-    * Document Templates: [계획서](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ERchmN7JprdAvBzBzg7nkloBJF_qiTrINPaFA_7kivmSDQ?e=xdGIvp), [중간시연보고서](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EYddSKOG475Ioj5eCjGQ1scBiaZP9y1U5iUOSufx_QerZA?e=Pb2qqo), [결과보고서](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EWJEy0iVCCpDjIqCxjckvAEB5_hW0qJdIRmKEaINwR_Q9w?e=7GrlSY)
-
+  * [Design Project]()
+    * Document Templates: [계획서](), [중간시연보고서](), [결과보고서]()
 
 * Week 15 (Nov. 14 -- Dec. 4): Complimentary
-
 * Week 16 (Nov. 14 -- Dec. 4): Final Exam
--->
