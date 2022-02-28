@@ -4,6 +4,8 @@ include:
   - microprocessors.md
   - embedded_systems_design.md
   - hd.md
+  - mp2022-1.md
+  - esd2022-1.md
   
 locale: "ko-KR"
 name: something
