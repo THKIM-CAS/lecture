@@ -6,6 +6,7 @@ include:
   - hd.md
   - mp2022-1.md
   - esd2022-1.md
+  - dsd2022-s.md
   
 locale: "ko-KR"
 name: something
