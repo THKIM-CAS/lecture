@@ -7,7 +7,9 @@ include:
   - mp2022-1.md
   - esd2022-1.md
   - dsd2022-s.md
-  
+  - 2022-2-dsd.md
+
+
 locale: "ko-KR"
 name: something
 title: null
