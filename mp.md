@@ -6,10 +6,10 @@ You can only see the files through the session made by the log-on process with y
 ### Week 2
  * Computer Abstraction and Technology (1/2) [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EcSDbDPG1YpBi4KzOIU76isBtTeSmWGNCzEqCUnzpNNpAw?e=RShYGO)
 
-<!--
 ### Week 3
  * Computer Abstraction and Technology (2/2) [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EThXsNUEl5RPoOY8gAXCi-4B2ZH4Zekn26wmeJokREXY_A?e=fKzRny)
 
+<!--
 ### Week 4
  * Instruction: Language of the Computer (1/3) [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/Ecc-x5IqXGFAsEY2AVAx8UcBc6cL-J6vvZl1OEq67taIqw?e=7HVi9H)
  * In-Class [👨‍🏫](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ETOQ_1_aZ2ZJhLR6nBY_2zoBKu-wlQ6dnhbGivok0Ql-Ig?e=NIEsuo)
