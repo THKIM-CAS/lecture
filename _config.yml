@@ -9,6 +9,8 @@ include:
   - dsd2022-s.md
   - 2022-2-dsd.md
   - mp.md
+  - adsd.md
+  - esd.md
 
 
 locale: "ko-KR"
