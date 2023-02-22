@@ -1,9 +1,12 @@
 You can download the files *except the videos* through the session made by the log-on process with your *KAU office365 account*. The video files are not downloadable; they can be played only via web.
+
 ## Week 1
   * [Course Overview](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EW9JrzCpYklIiWX73nHTt_kBpRhFf-aucj4jH6KoFNvk3g?e=hZkv13) 
+
 ## Week 2
   * [Numbers and Arithmetic](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EczEvS99MCJElXZxTmuyWWsBeZUQZGR6DKWcrbiTbAcuag?e=OZU2Kz) [🎞](https://youtu.be/ea_cPhka1bQ)
   * [Signed Numbers](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ESsLp8hwPelLr-Ci5M8-0swBmgCiup2dqm7NTV6zdDnA-A?e=KRwFFe) [🎞](https://youtu.be/C4cMp6U95e8)
+
 ## Week 3
   * [Redundant Number Systems](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ERxPmJWB2IFHnXjZXrq8YsIBvWXlSH4wrVXm_tg5Z-Lshg?e=8UMAWE) [🎞](https://youtu.be/ckNdv6B3mZM)
   * [Residue Number Systems](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EWARYUS62mdAj2ZBWy0D-EUBA6qh-tUzsxEXgIbemd8jNw?e=zt2kkR) [🎞](https://youtu.be/7nDzkbyLDo4)
