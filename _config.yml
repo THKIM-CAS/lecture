@@ -8,6 +8,7 @@ include:
   - esd2022-1.md
   - dsd2022-s.md
   - 2022-2-dsd.md
+  - mp.md
 
 
 locale: "ko-KR"
