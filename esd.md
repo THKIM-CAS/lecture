@@ -1,7 +1,7 @@
 You can download the files *except the videos* through the session made by the log-on process with your *KAU office365 account*. The video files are not downloadable; they can be played only via web.
 
 ### Week 1
-  * [📝Course Overview](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EShjVTFUdDlGohdlxXR0OjYBPbICzhMZLjdYuoFVlWrbMA?e=Lut1ol)
+  * [📝Course Overview](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EShjVTFUdDlGohdlxXR0OjYBPbICzhMZLjdYuoFVlWrbMA?e=leneQQ)
 
 ### Week 2
   * [📝Embedded Computing](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Efj6D9Gzjh9Fg3ugOnaRPvYBB4VfW3rFSHzaMIuSINmdmA?e=wnBfNK) [🎞](https://youtu.be/ZDY-N8wqBGE)
