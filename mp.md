@@ -4,25 +4,22 @@ You can only see the files through the session made by the log-on process with y
  * Course Overview [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/Eek0VGXNXLJGkBPeUkOPdH8BM5x8YHapvKdq0Jpg6p9G8A?e=N2D8Pw)
 
 ### Week 2
- * Computer Abstraction and Technology (1/2) [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EcSDbDPG1YpBi4KzOIU76isBtTeSmWGNCzEqCUnzpNNpAw?e=RShYGO)
+ * Computer Abstraction and Technology (1/2) [📝](https://youtube.com/watch?v=UqRe4a9rmYg&si=EnSIkaIECMiOmarE)
 
 ### Week 3
- * Computer Abstraction and Technology (2/2) [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EThXsNUEl5RPoOY8gAXCi-4B2ZH4Zekn26wmeJokREXY_A?e=fKzRny)
+ * Computer Abstraction and Technology (2/2) [📝](https://youtube.com/watch?v=akJkD4q-gvk&si=EnSIkaIECMiOmarE)
 
-<!--
 ### Week 4
- * Instruction: Language of the Computer (1/3) [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/Ecc-x5IqXGFAsEY2AVAx8UcBc6cL-J6vvZl1OEq67taIqw?e=7HVi9H)
- * In-Class [👨‍🏫](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ETOQ_1_aZ2ZJhLR6nBY_2zoBKu-wlQ6dnhbGivok0Ql-Ig?e=NIEsuo)
+ * Instruction: Language of the Computer (1/3) [📝](https://youtube.com/watch?v=95pBJa50b8E&si=EnSIkaIECMiOmarE)
 
 ### Week 5
- * Instruction: Language of the Computer (2/3) [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EU6s3ERn_AJGp17RPIF-kJIBM2dXlgxXcGzx2ShRue5fJA?e=rb42b3)
- * Homework#1 [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EUsYICerihdPlW0agnhQNJQB4Zya6aa6A4tiofFMQBj3Vg?e=BlkIEV) / [Interim Report](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EVJA212BsvBPmSXRfwcugtgBzYNBSNjsy0F4QGHOfvrQkQ?e=au87UM) / [Final Report](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EVMWApmvaXdAnUPArUn1JxkBJl7pKIpiVMMjATcUPXpGcg?e=xf6XHE) / [RV32I Spec.](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQroa9PWaZNAmQFyyiajrHIB8cFIrR-TP6tt_KSYhV3orw?e=XjAMUw) / [test0.zip](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EV6REnynnyNEi-358WrfdFYBX8kCkvAFNDF_7Ufx2HG0SQ?e=QYpWwO)
- * In-Class [👨‍🏫](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EQAYePPreaZCmIbJVebHbv8BuQArMFsniNdzkkkUU-AabQ?e=gHofv3)
+ * Instruction: Language of the Computer (2/3) [📝](https://youtube.com/watch?v=qxRz2mAwNqM&si=EnSIkaIECMiOmarE)
+<!-- * Homework#1 [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EUsYICerihdPlW0agnhQNJQB4Zya6aa6A4tiofFMQBj3Vg?e=BlkIEV) / [Interim Report](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EVJA212BsvBPmSXRfwcugtgBzYNBSNjsy0F4QGHOfvrQkQ?e=au87UM) / [Final Report](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EVMWApmvaXdAnUPArUn1JxkBJl7pKIpiVMMjATcUPXpGcg?e=xf6XHE) / [RV32I Spec.](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQroa9PWaZNAmQFyyiajrHIB8cFIrR-TP6tt_KSYhV3orw?e=XjAMUw) / [test0.zip](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EV6REnynnyNEi-358WrfdFYBX8kCkvAFNDF_7Ufx2HG0SQ?e=QYpWwO)-->
 
 ### Week 6
- * Instruction: Language of the Computer (3/3) [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EfeDHf3TtIlLgwQArPkDBFoBMyg5RGBiB5FC6LCt79Q20A?e=4PGbuy)
- * In-Class [👨‍🏫](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ERE6mQZtxnZOknPKQWWadRMBPJpUwL8x9fGCi9KL7HZGRQ?e=yo9ucg)
+ * Instruction: Language of the Computer (3/3) [📝](https://youtube.com/watch?v=ulHtRG9Ohxc&si=EnSIkaIECMiOmarE)
 
+<!--
 ### Week 7
  * Arithmetic for Computers [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EVaOrV40AAdJr--HIfJP0bsBPKRjUyX_meaLKViWOfeFDQ?e=rYwOe2)
  * In-Class [👨‍🏫](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EYoU4bUdNlxEm3MXvpzJlxgBfgQXBUFMHPNSc5EaoGuvTg?e=CwD7Z0)
