@@ -9,20 +9,18 @@ You can download the files *except the videos* through the session made by the l
 ### Week 3
   * [📝Instruction Sets (1/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EVDbFvSmKnFLk0waTbfg1BABjrETMqYsjdrS4tcrm7DV8g?e=4hbKCt) [🎞](https://youtu.be/JFBT7cxq1P0)
 
-<!--
 ### Week 4
-  * [🧪Setup](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EXM8IOG_659GnYB6i6-elBkBtmGC2OoQQtuR2gOxa_RhDQ?e=g49iuF)
+  * [LAB: Setup]()
     * [SD Card Image](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EQic1LSGiI5CjQcNH-jI1mcBKZjq_cHzGx2dndspfKMuEQ?e=9XWBk3)
     * [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager)
     * [Quartus Prime Lite (optional)](https://fpgasoftware.intel.com/18.1/?edition=lite)
-    * [Putty](https://www.putty.org )
+    * [Putty](https://www.putty.org)
     * [DE1-SoC Board Manual](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=167&No=836&PartNo=1)
-  * [👨‍🏫In-Class](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EVRAKHyKetRFpJG0DvftteMBvCjmtuFHicOtp0T1kp6V-Q?e=BxGLcr)
 
 ### Week 5
   * [📝Instruction Sets (2/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EeEOnGo9uBJJqxaeKoAYd9sBziiGIFZB11xf7qyAM2qM8g?e=rAA3HS) [🎞](https://youtu.be/MCvb9-w8GMM)
-  * [👨‍🏫In-Class](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ERXgwFoYcztOhbUBWwr57O8BakX9Gts2B9zBom1fGFFiYg?e=mo68aR)
 
+<!--
 ### Week 6
   * [🧪ARM Assembly](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/Ec_pai9btORCpjXz_kPkSgUBVKPsxku-NrVXdYPgArVZCw?e=hjQdtX)
     * [Introduction to the ARM Processor Using ARM toolchain](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQvDtrQEKttDiUyyDqvfsVsBAYxlaAUWPWeXKIzm-S81UQ?e=sMk7hu)
