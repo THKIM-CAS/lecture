@@ -10,7 +10,8 @@ You can download the files *except the videos* through the session made by the l
   * [📝Instruction Sets (1/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EVDbFvSmKnFLk0waTbfg1BABjrETMqYsjdrS4tcrm7DV8g?e=4hbKCt) [🎞](https://youtu.be/JFBT7cxq1P0)
 
 ### Week 4
-  * [LAB: Setup]()
+  * [LAB: Setup](https://youtu.be/S0nNv94j-HM)
+    * [Report Template](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ESccvxIgOQhLqMRK0DD8R3EB86dDAAZHqW5ZyKprCH4urg?e=Kd8hD0)
     * [SD Card Image](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EQic1LSGiI5CjQcNH-jI1mcBKZjq_cHzGx2dndspfKMuEQ?e=9XWBk3)
     * [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager)
     * [Quartus Prime Lite (optional)](https://fpgasoftware.intel.com/18.1/?edition=lite)
