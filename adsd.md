@@ -11,7 +11,6 @@ You can download the files *except the videos* through the session made by the l
   * [Redundant Number Systems](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ERxPmJWB2IFHnXjZXrq8YsIBvWXlSH4wrVXm_tg5Z-Lshg?e=8UMAWE) [🎞](https://youtu.be/ckNdv6B3mZM)
   * [Residue Number Systems](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EWARYUS62mdAj2ZBWy0D-EUBA6qh-tUzsxEXgIbemd8jNw?e=zt2kkR) [🎞](https://youtu.be/7nDzkbyLDo4)
 
-<!--
 ## Week 4
   * [Basic Addition and Counting](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ERKSbedznm9Ini68j4ZyhzEBejWrB7C0JXuW7h8BNRT1TA?e=eJr1C5) [🎞](https://youtu.be/UnNjJQE1tvE)
   * [Carry-Lookahead Adders](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EVklxaRCEdFPlkys9gs9dDwB4BDH9iKbFDeUVW7HUy03Sg?e=6l55uA) [🎞](https://youtu.be/A71ar28yYp4)
@@ -19,6 +18,7 @@ You can download the files *except the videos* through the session made by the l
   * [Variations in Fast Adders](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ecg_GGGTJrRDta42QTkavw4BklBxTgJGeiYvQ2W3wPxScQ?e=0KoYZR) [🎞](https://youtu.be/7iKWerxKJzU)
 ## Week 6
   * [Multi-Operand Addition](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EYK9sp6_JjdMtQTcOrx4kt8Buacn-jyyyVB0zXKoK0rBcg?e=uPgPld) [🎞](https://youtu.be/HR_OeOiV4R8)
+<!--
 ## Week 7
   * [Basic Multiplication](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ESRxEMVZOjxIvhvrKB10EacB-5LTbTgXjEcrQHx_NGfUvg?e=0S6O5e) [🎞](https://youtu.be/e3LAHawzmxw)
   * [High-Radix Multiplier](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQpjgyUrza9Fu2ZS-efVfewB96ciwFmpNUOD9FdMktVcTw?e=qeMZ89) [🎞](https://youtu.be/89P3VZydujw)
