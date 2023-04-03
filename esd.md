@@ -21,16 +21,14 @@ You can download the files *except the videos* through the session made by the l
 ### Week 5
   * [📝Instruction Sets (2/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EeEOnGo9uBJJqxaeKoAYd9sBziiGIFZB11xf7qyAM2qM8g?e=rAA3HS) [🎞](https://youtu.be/MCvb9-w8GMM)
 
-<!--
 ### Week 6
   * [🧪ARM Assembly](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/Ec_pai9btORCpjXz_kPkSgUBVKPsxku-NrVXdYPgArVZCw?e=hjQdtX)
     * [Introduction to the ARM Processor Using ARM toolchain](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQvDtrQEKttDiUyyDqvfsVsBAYxlaAUWPWeXKIzm-S81UQ?e=sMk7hu)
-  * [👨‍🏫In-Class](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EVJ3ZQIs3y1PktFNpnXufocBEQTCvwbx1CC7vTEXD3Bhng?e=miCKUv)
 
 ### Week 7
   * [📝CPUs](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ee5EeA8TSKNPj7bCyX6ZAgsB6mMFf8Daqn4zu_PgTBcIcQ?e=BJkNon) [🎞](https://youtu.be/7MU3a7IVePE)
-  * [👨‍🏫In-Class](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ESGBEJnuzZtHsrbrDM4rX0sBy6A8qBfVoJCvxADptVYV1Q?e=OTRS5T)
  
+<!--
 ### Week 8
   * [🧪Lab3. Memory-Mapped IO](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EXjRPmQ-L11Pk0C4-B1E_D0B0PSDoGmXkJtdCbK3JADEaA?e=Bbzod7) [🎞](https://youtu.be/7wIsj4VPMLw)
     * [address_map_arm.h](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EencOzoTed5Hp7GGM6yxE4sBzdoPl-wNOA3BPY42L0HVbA?e=qsqynB)
