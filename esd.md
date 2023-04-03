@@ -10,7 +10,7 @@ You can download the files *except the videos* through the session made by the l
   * [📝Instruction Sets (1/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EVDbFvSmKnFLk0waTbfg1BABjrETMqYsjdrS4tcrm7DV8g?e=4hbKCt) [🎞](https://youtu.be/JFBT7cxq1P0)
 
 ### Week 4
-  * [⚗️💻Setup](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EVxUYEgPvRFJvoW6FOXsbN4BK9TYFafMFfblKYiTDGK5Ww?e=e0Rd9M) [🎞](https://youtu.be/S0nNv94j-HM)
+  * [🧪Setup](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EVxUYEgPvRFJvoW6FOXsbN4BK9TYFafMFfblKYiTDGK5Ww?e=e0Rd9M) [🎞](https://youtu.be/S0nNv94j-HM)
     * [Report Template](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ESccvxIgOQhLqMRK0DD8R3EB86dDAAZHqW5ZyKprCH4urg?e=Kd8hD0)
     * [SD Card Image](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EQic1LSGiI5CjQcNH-jI1mcBKZjq_cHzGx2dndspfKMuEQ?e=9XWBk3)
     * [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager)
@@ -22,7 +22,7 @@ You can download the files *except the videos* through the session made by the l
   * [📝Instruction Sets (2/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EeEOnGo9uBJJqxaeKoAYd9sBziiGIFZB11xf7qyAM2qM8g?e=rAA3HS) [🎞](https://youtu.be/MCvb9-w8GMM)
 
 ### Week 6
-  * [🧪ARM Assembly](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/Ec_pai9btORCpjXz_kPkSgUBVKPsxku-NrVXdYPgArVZCw?e=hjQdtX)
+  * [🧪ARM Assembly](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EXaICr5eQPxJuhRwCn0wnvIBkxteWi4XENkb_USuHXrsTw?e=b0fxaw) [🎞](https://youtu.be/4Tzqiswi0kE)
     * [Introduction to the ARM Processor Using ARM toolchain](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQvDtrQEKttDiUyyDqvfsVsBAYxlaAUWPWeXKIzm-S81UQ?e=sMk7hu)
 
 ### Week 7
