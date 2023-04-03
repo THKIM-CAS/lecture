@@ -14,6 +14,9 @@ You can only see the files through the session made by the log-on process with y
 
 ### Week 5
  * Instruction: Language of the Computer (2/3) [📝](https://youtube.com/watch?v=qxRz2mAwNqM&si=EnSIkaIECMiOmarE)
+ * Homework#1 [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EWkEpn_eUD5Bvf6615mq2zoBjAWCuZ5FLOmLXct3-bOi2g?e=c6mUen)
+    * Report Templates: [Final](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EcWRGILzqpRPhlGLoP5VoG4BMD-6g03ZzeOuOy8ELdPLrA?e=AT4Pky) / [Interim](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ER-_1Ij9_vhDsrjp1TLOVlMBiiwHPjCKIPwRlMHxEDs05A?e=UNdI0o)
+
 <!-- * Homework#1 [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EUsYICerihdPlW0agnhQNJQB4Zya6aa6A4tiofFMQBj3Vg?e=BlkIEV) / [Interim Report](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EVJA212BsvBPmSXRfwcugtgBzYNBSNjsy0F4QGHOfvrQkQ?e=au87UM) / [Final Report](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EVMWApmvaXdAnUPArUn1JxkBJl7pKIpiVMMjATcUPXpGcg?e=xf6XHE) / [RV32I Spec.](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQroa9PWaZNAmQFyyiajrHIB8cFIrR-TP6tt_KSYhV3orw?e=XjAMUw) / [test0.zip](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EV6REnynnyNEi-358WrfdFYBX8kCkvAFNDF_7Ufx2HG0SQ?e=QYpWwO)-->
 
 ### Week 6
