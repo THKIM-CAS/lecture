@@ -18,7 +18,6 @@ You can download the files *except the videos* through the session made by the l
   * [Variations in Fast Adders](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ecg_GGGTJrRDta42QTkavw4BklBxTgJGeiYvQ2W3wPxScQ?e=0KoYZR) [🎞](https://youtu.be/7iKWerxKJzU)
 ## Week 6
   * [Multi-Operand Addition](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EYK9sp6_JjdMtQTcOrx4kt8Buacn-jyyyVB0zXKoK0rBcg?e=uPgPld) [🎞](https://youtu.be/HR_OeOiV4R8)
-<!--
 ## Week 7
   * [Basic Multiplication](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ESRxEMVZOjxIvhvrKB10EacB-5LTbTgXjEcrQHx_NGfUvg?e=0S6O5e) [🎞](https://youtu.be/e3LAHawzmxw)
   * [High-Radix Multiplier](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQpjgyUrza9Fu2ZS-efVfewB96ciwFmpNUOD9FdMktVcTw?e=qeMZ89) [🎞](https://youtu.be/89P3VZydujw)
@@ -26,6 +25,7 @@ You can download the files *except the videos* through the session made by the l
   * [Tree and Array Multipliers](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EU8oWlBQPhJKhOfKBnt-GzAB3yv4HeM7qghSUXU7qB8r5Q?e=hZJrb8) [🎞](https://youtu.be/rLPhjbO_FmI)  
 ## Week 9
   * [Variations in Multipliers](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ER-U_Us8tEBMt1xWcIXRT8cBRZM2V4lHPLtZ5b1x8cn0Rg?e=in4ujW) [🎞](https://youtu.be/SqTrDV9ydXM)
+<!--
 ## Week 10
   * [Basic Division Schemes](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EXWOmY-iyHVEodJYGB72oSABxwcYU-UUOw8tJCxCHR6DPg?e=VqFab5) [🎞](https://youtu.be/uaEViibw_Kc)
 ## Week 11
