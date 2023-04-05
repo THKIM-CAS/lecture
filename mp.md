@@ -17,23 +17,18 @@ You can only see the files through the session made by the log-on process with y
  * Homework#1 [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EWkEpn_eUD5Bvf6615mq2zoBjAWCuZ5FLOmLXct3-bOi2g?e=c6mUen)
     * Report Templates: [Interim](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EcWRGILzqpRPhlGLoP5VoG4BMD-6g03ZzeOuOy8ELdPLrA?e=AT4Pky) / [Final](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ER-_1Ij9_vhDsrjp1TLOVlMBiiwHPjCKIPwRlMHxEDs05A?e=UNdI0o)
 
-<!-- * Homework#1 [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EUsYICerihdPlW0agnhQNJQB4Zya6aa6A4tiofFMQBj3Vg?e=BlkIEV) / [Interim Report](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EVJA212BsvBPmSXRfwcugtgBzYNBSNjsy0F4QGHOfvrQkQ?e=au87UM) / [Final Report](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EVMWApmvaXdAnUPArUn1JxkBJl7pKIpiVMMjATcUPXpGcg?e=xf6XHE) / [RV32I Spec.](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQroa9PWaZNAmQFyyiajrHIB8cFIrR-TP6tt_KSYhV3orw?e=XjAMUw) / [test0.zip](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EV6REnynnyNEi-358WrfdFYBX8kCkvAFNDF_7Ufx2HG0SQ?e=QYpWwO)-->
-
 ### Week 6
  * Instruction: Language of the Computer (3/3) [📝](https://youtube.com/watch?v=ulHtRG9Ohxc&si=EnSIkaIECMiOmarE)
 
-<!--
 ### Week 7
- * Arithmetic for Computers [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EVaOrV40AAdJr--HIfJP0bsBPKRjUyX_meaLKViWOfeFDQ?e=rYwOe2)
- * In-Class [👨‍🏫](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EYoU4bUdNlxEm3MXvpzJlxgBfgQXBUFMHPNSc5EaoGuvTg?e=CwD7Z0)
+ * Arithmetic for Computers [📝](https://youtu.be/NS7P2lmAhd4)
 
+<!--
 ### Week 8
  * The Processor (1/4) [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ERg5d6JXeF9Johlt8T0ZQY4B_4kaUHLkHyXPynYQqAHCvg?e=06nVvh)
- * In-Class [👨‍](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ETnI_6kJCuVGjO_Nq2LLX2YBH7hUPnbHMK4uc51wolCXZw?e=cAcIuS)
 
 ### Week 9
  * The Processor (2/4) [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ERqnfBAp8mFNjAJ-LBtklQ0BOCbl_WVESUOcDTxpB_IGJA?e=RbsY3Z)
- * In-Class [👨‍](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EV2oAxHTUfNPvh2dJ8fkD3YB4OyLElsmyHa_gU6oriom6w?e=Kaq6zv)
 
 ### Week 10
  * The Processor (3/4) [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EVPBDqp-x7xAo2K0jcmNei0BChNiP-EqDPjCKUavvKgtig?e=sO4sFt)
