@@ -25,7 +25,6 @@ You can download the files *except the videos* through the session made by the l
   * [Tree and Array Multipliers](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EU8oWlBQPhJKhOfKBnt-GzAB3yv4HeM7qghSUXU7qB8r5Q?e=hZJrb8) [🎞](https://youtu.be/rLPhjbO_FmI)  
 ## Week 9
   * [Variations in Multipliers](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ER-U_Us8tEBMt1xWcIXRT8cBRZM2V4lHPLtZ5b1x8cn0Rg?e=in4ujW) [🎞](https://youtu.be/SqTrDV9ydXM)
-<!--
 ## Week 10
   * [Basic Division Schemes](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EXWOmY-iyHVEodJYGB72oSABxwcYU-UUOw8tJCxCHR6DPg?e=VqFab5) [🎞](https://youtu.be/uaEViibw_Kc)
 ## Week 11
@@ -41,4 +40,3 @@ You can download the files *except the videos* through the session made by the l
 ## Week 15 (Complimentary)
 ## Week 16
   * Final Exam
--->
