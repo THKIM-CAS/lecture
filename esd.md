@@ -28,20 +28,17 @@ You can download the files *except the videos* through the session made by the l
 ### Week 7
   * [📝CPUs](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ee5EeA8TSKNPj7bCyX6ZAgsB6mMFf8Daqn4zu_PgTBcIcQ?e=BJkNon) [🎞](https://youtu.be/7MU3a7IVePE)
  
-<!--
 ### Week 8
-  * [🧪Lab3. Memory-Mapped IO](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EXjRPmQ-L11Pk0C4-B1E_D0B0PSDoGmXkJtdCbK3JADEaA?e=Bbzod7) [🎞](https://youtu.be/7wIsj4VPMLw)
+  * [🧪Lab3. Memory-Mapped IO](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ETuS2_e7kNhIo_bMfw-Q31MBiJtgzBWjhrHCjDGF27leqw?e=PVsQRB) [🎞](https://youtu.be/RR0aqXmgk_E)
     * [address_map_arm.h](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EencOzoTed5Hp7GGM6yxE4sBzdoPl-wNOA3BPY42L0HVbA?e=qsqynB)
-  * [👨‍🏫In-Class](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EeQYHQXEapBJmWpDC3jqgjQB2NSvbIHQp3KUCDmCIEba5w?e=lVBxv8)
 
 ### Week 9
   * [📝Computing Platforms](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EZDFLrMrTwlLmm9aRUpqI9MBCTvVlo2V3eBTlJfhmVz-JA?e=0V3WUd) [🎞](https://youtu.be/OxmvfApox7w)
-  * [👨‍🏫In-Class](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EfVDjZHZhG1BjsE0gqN172kBqNhIzCvHgbJUUq4ipLf8zQ?e=k4HY6p)
 
 ### Week 10
   * [📝Program Design and Analysis](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EZTs4MjeObZJv27Es-79e6gBWigOVm-xThYVDg6YAC04Uw?e=1k2qwU) [🎞](https://youtu.be/894tqO91ZJo)
-  * [👨‍🏫In-Class](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EWJTHuZSQm5CltQnlSboh4QBIURvLqPFIvxTnVF7SNVj6g?e=zWBrUU)
 
+<!--
 ### Week 11
   * [🧪Lab4. Device Driver](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EWyYSBkYu7BGjotpPGdiBXgBb4l_nYALpvDWhukmoskwSg?e=6QYJB4) [🎞](https://youtu.be/7YmU7R0ytVc)
     * [interrupt_ID.h](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/ETS0-CfZE79CmaqP9w1btu8B9Cejy6UbfLeLBHFxG6TLxw?e=rL4uAh)
