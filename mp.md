@@ -23,19 +23,20 @@ You can only see the files through the session made by the log-on process with y
 ### Week 7
  * Arithmetic for Computers [📝](https://youtu.be/NS7P2lmAhd4)
 
-<!--
 ### Week 8
- * The Processor (1/4) [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ERg5d6JXeF9Johlt8T0ZQY4B_4kaUHLkHyXPynYQqAHCvg?e=06nVvh)
+ * The Processor (1/4) [📝](https://youtu.be/i6yaRi7Hj48)
 
 ### Week 9
- * The Processor (2/4) [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ERqnfBAp8mFNjAJ-LBtklQ0BOCbl_WVESUOcDTxpB_IGJA?e=RbsY3Z)
+ * The Processor (2/4) [📝](https://youtu.be/Z-3remFDnAI)
 
 ### Week 10
- * The Processor (3/4) [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EVPBDqp-x7xAo2K0jcmNei0BChNiP-EqDPjCKUavvKgtig?e=sO4sFt)
+ * The Processor (3/4) [📝](https://youtu.be/dPwHNkMcllo)
 
 ### Week 11
- * The Processor (4/4) [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EYWnRHWtoEBHngMQ25oLMqABKPOpTVXsQuWj0f471SBG0Q?e=gOCZc6)
- * Homework#2 [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/Efnkt8mU--tNvYW1JV48rZYBK6HMZZdUp_09I7lBAaOSbQ?e=YQe0mK) / [Interim Report](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EecO-bUM5wROuo54zGzWVDMBZU27LRgnHwhelFIJ5Rz8Lg?e=4EtdWw) / [Final Report](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EfdPRa2lZ6dAuAzfiFAUZYYBJ-KH7TLXHdEmuocpqFV02Q?e=Jy4yk1) / [Using Verilog HDL for Microprocessor Class](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EWSPVvg1HvpIj1-J9wlm0sQBupR_Plb0x3rJew7_3DQnhw?e=uZ6gN3) / [Files](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EfBJ8u2Cw59CsHvgFa2zeQ0BxUNJ1aGZi40XgyXTqR-MMA?e=9mNaWh)
+ * The Processor (4/4) [📝](https://youtu.be/3lbVdnoE7jE)
+
+<!--
+* Homework#2 [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/Efnkt8mU--tNvYW1JV48rZYBK6HMZZdUp_09I7lBAaOSbQ?e=YQe0mK) / [Interim Report](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EecO-bUM5wROuo54zGzWVDMBZU27LRgnHwhelFIJ5Rz8Lg?e=4EtdWw) / [Final Report](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EfdPRa2lZ6dAuAzfiFAUZYYBJ-KH7TLXHdEmuocpqFV02Q?e=Jy4yk1) / [Using Verilog HDL for Microprocessor Class](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EWSPVvg1HvpIj1-J9wlm0sQBupR_Plb0x3rJew7_3DQnhw?e=uZ6gN3) / [Files](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EfBJ8u2Cw59CsHvgFa2zeQ0BxUNJ1aGZi40XgyXTqR-MMA?e=9mNaWh)
  * In-Class [👨‍🏫]()
 
 ### Week 12
