@@ -38,18 +38,15 @@ You can download the files *except the videos* through the session made by the l
 ### Week 10
   * [📝Program Design and Analysis](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EZTs4MjeObZJv27Es-79e6gBWigOVm-xThYVDg6YAC04Uw?e=1k2qwU) [🎞](https://youtu.be/894tqO91ZJo)
 
-<!--
 ### Week 11
-  * [🧪Lab4. Device Driver](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EWyYSBkYu7BGjotpPGdiBXgBb4l_nYALpvDWhukmoskwSg?e=6QYJB4) [🎞](https://youtu.be/7YmU7R0ytVc)
+  * [🧪Lab4. Device Driver](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EQCl4pwZKplBn2Tgan66KscBWMXK2yxejLK58cQ4hEyVPw?e=JJwCF8) [🎞](https://youtu.be/I6izgSc0cso)
     * [interrupt_ID.h](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/ETS0-CfZE79CmaqP9w1btu8B9Cejy6UbfLeLBHFxG6TLxw?e=rL4uAh)
-  * [👨‍🏫In-Class](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EeyheZHjIgBMnq39vJZ7FfQB6NKLWYTtNU9uYoVeOwe9cA?e=VbvrG0)
 
 ### Week 12
   * [📝Processes and Operating Systems](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EV8_JIFN_X9HpuENoAvN9GgBDh6DSf-VGFnAEdG0VFjV7w?e=1de1g6) [🎞](https://youtu.be/-ywJL582dbc)
-  * [👨‍🏫In-Class](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ERVn6eWvdE5FuUu1BKAGa_EBkkT0H6tbe3aodBdUjVPLpQ?e=oCd4rP)
 
 ### Week 13
-  * [🧪Lab5. Accelerator](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/Ea3IaqrAS_dBrSpqpy3eD2IBBWDXeVMv0RMhYwqqbMzfyA?e=xzUsZV) [🎞](https://youtu.be/vqxrBQjbU4c)
+  * [🧪Lab5. Accelerator](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ERm_47O_zgFBimD4gGpllswBwIIuu5yO1D8V1djbvqRgvg?e=DOoIPk) [🎞](https://youtu.be/Co_HiE1oZKE)
     * Sample Systems for DE1-SoC Board
       * [Base System](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EUrJo8pj7AZPldkOo47zXxcBwGbt995VlfcF4SGiSzwwwA?e=gg1KZ5)
       * [Example System (with custom PIO)](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EecmrwNLSkFNiWrBrlw48zwBVD6SKHrYadtZJc-MqzaO9g?e=qthRiO)
@@ -58,8 +55,8 @@ You can download the files *except the videos* through the session made by the l
       * [Avalon Interface](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EbdixXzjZThClQmrchE9fkkBK4NsqoFbMTriZqCGYKJ95A?e=fpJwSA)
       * [Verilog HDL for Circuit Synthesis (1/2)](https://youtu.be/egp8SYCLV5w)
       * [Verilog HDL for Circuit Synthesis (2/2)](https://youtu.be/zqMoHaf6--U)
-  * [👨‍🏫In-Class](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ERygNiC4QdFIkiroNqTdd54BQQzn_8CJdAkJPkcrs8FQhg?e=k17TMD)
 
+<!--
 ### Week 14
   * [📝Embedded Multiprocessors](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EQQ7ckNJy41Hslf48a01A-YB09DJw14HNYbcD0KSKbTtag?e=NN0SwD) [🎞](https://youtu.be/pOxUW3SMtT0)
   * 👨‍🏫In-Class: [📝Interconnect](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ES8cnQnge-hMrdu_ESmDX9sB2Uo44Ho2I0dJ34nTJpVrvw?e=jXLlBJ)
