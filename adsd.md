@@ -54,4 +54,3 @@ You can download the files *except the videos* through the session made by the l
 
 ## Week 16
   * Final Exam
--->
