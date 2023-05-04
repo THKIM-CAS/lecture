@@ -35,22 +35,16 @@ You can only see the files through the session made by the log-on process with y
 ### Week 11
  * The Processor (4/4) [📝](https://youtu.be/3lbVdnoE7jE)
 
-<!--
-* Homework#2 [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/Efnkt8mU--tNvYW1JV48rZYBK6HMZZdUp_09I7lBAaOSbQ?e=YQe0mK) / [Interim Report](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EecO-bUM5wROuo54zGzWVDMBZU27LRgnHwhelFIJ5Rz8Lg?e=4EtdWw) / [Final Report](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EfdPRa2lZ6dAuAzfiFAUZYYBJ-KH7TLXHdEmuocpqFV02Q?e=Jy4yk1) / [Using Verilog HDL for Microprocessor Class](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EWSPVvg1HvpIj1-J9wlm0sQBupR_Plb0x3rJew7_3DQnhw?e=uZ6gN3) / [Files](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EfBJ8u2Cw59CsHvgFa2zeQ0BxUNJ1aGZi40XgyXTqR-MMA?e=9mNaWh)
- * In-Class [👨‍🏫]()
-
 ### Week 12
- * Large and Fast: Exploiting Memory Hierarchy (1/2) [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EbfQPkHttblNpv4ud1K3Iv4BX_6y41U1YQwrQyLKJhTqOA?e=YbQhsA)
- * In-Class [👨‍🏫]()
+ * Large and Fast: Exploiting Memory Hierarchy (1/2) [📝](https://youtu.be/FcFh_K5OFxY)
 
 ### Week 13
- * Large and Fast: Exploiting Memory Hierarchy (2/2) [📝](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EZmg_GsWbsZKg11DroS-WggBPFWH7cZBJ1YkjNeBR9-v_w?e=5Uwldc)
+ * Large and Fast: Exploiting Memory Hierarchy (2/2) [📝](https://youtu.be/Ci6yLxYB2ks)
 
 ### Week 14
- * [Course Summary]()
+ * Course Summary
 
 ### Week 15 (Complimentary)
 
 ### Week 16
  * Final Exam
--->
