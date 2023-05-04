@@ -31,14 +31,14 @@ You can only see the files through the session made by the log-on process with y
 
 ### Week 10
  * The Processor (3/4) [📝](https://youtu.be/dPwHNkMcllo)
+ * [Homework #2](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EYMKMCpJYg9Hkbl6zhLQlK0Bn_RaUHfc9X18V-1Q6rQujg?e=mbhRfS)
+   * [Using Verilog HDL for Microprocessor Class](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EbB28T4nYYhGlbUtmwSojHcB47eUOxXwtup0UNh71yuNng?e=C9OizT)
 
 ### Week 11
  * The Processor (4/4) [📝](https://youtu.be/3lbVdnoE7jE)
 
 ### Week 12
  * Large and Fast: Exploiting Memory Hierarchy (1/2) [📝](https://youtu.be/FcFh_K5OFxY)
- * [Homework #2](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EYMKMCpJYg9Hkbl6zhLQlK0Bn_RaUHfc9X18V-1Q6rQujg?e=mbhRfS)
-   * [Using Verilog HDL for Microprocessor Class](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EbB28T4nYYhGlbUtmwSojHcB47eUOxXwtup0UNh71yuNng?e=C9OizT)
 
 ### Week 13
  * Large and Fast: Exploiting Memory Hierarchy (2/2) [📝](https://youtu.be/Ci6yLxYB2ks)
