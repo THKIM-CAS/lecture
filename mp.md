@@ -37,6 +37,8 @@ You can only see the files through the session made by the log-on process with y
 
 ### Week 12
  * Large and Fast: Exploiting Memory Hierarchy (1/2) [📝](https://youtu.be/FcFh_K5OFxY)
+ * [Homework #2]()
+   * [Using Verilog HDL for Microprocessor Class]()
 
 ### Week 13
  * Large and Fast: Exploiting Memory Hierarchy (2/2) [📝](https://youtu.be/Ci6yLxYB2ks)
