@@ -35,7 +35,7 @@ You can download the files *except the videos* through the session made by the l
   * [High-Radix Dividers](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ETxnnvFN7kFOrmv3uhGMnAABWO9sUJDSr8aVmsex-d3UPQ?e=9FiZ3v) [🎞](https://youtu.be/0csQIa1hRiY)
 
 ## Week 10 (In-Class: 0510)
-  * [Division by Convergence](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EZ40wVWD531FhdtG4aXYj14B64CPjH_pTvvnJUQjAR2o9Q?e=86vxQQ) [🎞](https://youtu.be/jNhlXpMJUfg)
+  * [Division by Convergence](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EZphMrW7CClIjRHDBzhOhjIB1l3pHEFJ-VHLzpzKhz5OBA?e=IvFaaV) [🎞](https://youtu.be/jNhlXpMJUfg)
 
 ## Week 11 (In-Class: 0517)
   * [Square-Rooting Methods](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQG8DNeM489CjlYHrq-HkGUBWyy_gb8bSY9qrkQR58rf5A?e=BuB3tc) [🎞](https://youtu.be/nBRl626JDgE)
