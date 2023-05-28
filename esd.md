@@ -55,13 +55,9 @@ You can download the files *except the videos* through the session made by the l
       * [Avalon Interface](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EbdixXzjZThClQmrchE9fkkBK4NsqoFbMTriZqCGYKJ95A?e=fpJwSA)
       * [Verilog HDL for Circuit Synthesis (1/2)](https://youtu.be/egp8SYCLV5w)
       * [Verilog HDL for Circuit Synthesis (2/2)](https://youtu.be/zqMoHaf6--U)
-
-<!--
 ### Week 14
-  * [📝Embedded Multiprocessors](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EQQ7ckNJy41Hslf48a01A-YB09DJw14HNYbcD0KSKbTtag?e=NN0SwD) [🎞](https://youtu.be/pOxUW3SMtT0)
-  * 👨‍🏫In-Class: [📝Interconnect](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ES8cnQnge-hMrdu_ESmDX9sB2Uo44Ho2I0dJ34nTJpVrvw?e=jXLlBJ)
-  
+ * [📝Interconnect](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ESMTsqxPaNxFiHznkIPkiHwBp1RitLvDzYWkeYqi_Sh56Q?e=NZbafC)
+
 ### Week 15 (Complimentary)
 ### Week 16
   * Final Exam
--->
