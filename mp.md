@@ -44,7 +44,7 @@ You can only see the files through the session made by the log-on process with y
  * Large and Fast: Exploiting Memory Hierarchy (2/2) [📝](https://youtu.be/Ci6yLxYB2ks)
 
 ### Week 14
- * Course Summary
+ * [Course Summary](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EXn16P0EBM5AohjFiOAOYTIBKItHSyfkQIzwPUuj1H2XJg?e=zdjcfC)
 
 ### Week 15 (Complimentary)
 
