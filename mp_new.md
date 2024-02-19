@@ -17,7 +17,6 @@
 |  14   | N. A. | 05 29 | Course Summary / Quiz4 (Ch5), Q&A |
 |  15   | N. A. | 06 05 | Final Exam (Ch1-Ch5) |
 
-----------------------------------------
 ## References
 * [The RISC-V Instruction Set Manual](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EUdNpCYICp5Li7uQRmbE3dgBSjbSgK3yY2cYryzOf-rxBw?e=nvm5fr)
 
