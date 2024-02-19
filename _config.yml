@@ -13,6 +13,8 @@ include:
   - esd.md
   - dsd2023-2.md
   - hd2023-2.md
+  - mp_new.md
+  - esd_new.md
 
 
 locale: "ko-KR"
