@@ -1,4 +1,4 @@
-### Schedule:
+## Schedule:
 | Week | Pre-Class Lecture                                                             | In-Class Date | In-Class                      |
 |------|-------------------------------------------------------------------------------|---------------|-------------------------------|
 |  01   | N. A.  | 03 06 | Course Overview: [📑](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/ESIIvS6sd3xCp4dU2Y7H654BmzFVA5aSJGHM0PoklP4DaQ?e=CBZsuw) / Q&A |
