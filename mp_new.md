@@ -13,9 +13,9 @@
 |  10   | The Processor 3 [📑](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EbYSXk2WDINGvtYEXpXM56ABW2hE8B5HETeRhhvusJWomQ?e=4Mxg3D) [🎞️](https://kau365-my.sharepoint.com/:v:/g/personal/taehwan_kim_kau_ac_kr/EVj1jE3nTVpIrp7LichHkPUBD_5f-7jb5U6zqEDXXAt7xA?e=0sGDIn) | pp.296--321  | 05 01 | Q&A |
 |  11   | The Processor 4 [📑](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EV85d8Aha5BLg7ASJU7FTOMB--k2L9_pI9Ush-8GnGGEmg?e=7Jqngx) [🎞️](https://kau365-my.sharepoint.com/:v:/g/personal/taehwan_kim_kau_ac_kr/ETBBKabmmk9Cs4VvvBefm_QBrbJQnaq-164NuRONNpoDAA?e=fDET7v) | pp.322--339  | 05 08 | Q&A |
 |  12   | Large and Fast: Exploiting Memory Hierarchy 1 [📑](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EblmiOeg-YNBpKqw1kDVkPgBZAGIY-DkmLkB9iFwgdZZGQ?e=Y1y1hr) [🎞️](https://kau365-my.sharepoint.com/:v:/g/personal/taehwan_kim_kau_ac_kr/ETj2OXLyEsVMsyf8L2w-auABQgLHCoSz-PKzWl3j64ZoAg?e=0oOh1z) | pp.386--412  | ~~05 15~~ 05 14? | Quiz3 (Ch4), Q&A |
-|  13   | Large and Fast: Exploiting Memory Hierarchy 2 [📑](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/Ecg-yeh1vJBPg-2CYsjO-NEBORoCOKyb7DgmU_MLAFHecA?e=mgYkZo) [🎞️](https://kau365-my.sharepoint.com/:v:/g/personal/taehwan_kim_kau_ac_kr/EWXRTOMtGAxArTOmBoreZG4BHaXfgPAxrtp_iBKieCJIaQ?e=RqM5Wp) | 05 413--464 | Q&A |
-|  14   | N. A. | 05 29 | Course Summary / Quiz4 (Ch5), Q&A |
-|  15   | N. A. | 06 05 | Final Exam (Ch1-Ch5) |
+|  13   | Large and Fast: Exploiting Memory Hierarchy 2 [📑](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/Ecg-yeh1vJBPg-2CYsjO-NEBORoCOKyb7DgmU_MLAFHecA?e=mgYkZo) [🎞️](https://kau365-my.sharepoint.com/:v:/g/personal/taehwan_kim_kau_ac_kr/EWXRTOMtGAxArTOmBoreZG4BHaXfgPAxrtp_iBKieCJIaQ?e=RqM5Wp) | pp. 413--464 | 05 22 |  Q&A |
+|  14   | N. A. | N. A. | 05 29 | Course Summary / Quiz4 (Ch5), Q&A |
+|  15   | N. A. | N. A. | 06 05 | Final Exam (Ch1-Ch5) |
 
 ## References
 * [The RISC-V Instruction Set Manual](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EUdNpCYICp5Li7uQRmbE3dgBSjbSgK3yY2cYryzOf-rxBw?e=nvm5fr)
