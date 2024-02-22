@@ -1,6 +1,6 @@
 | Week |             Pre-Class            | In-Class Date |       In-Class       |       In-Class Lab       |
 |:----:|:--------------------------------:|:-------------:|:--------------------:|:------------------------:|
-|   1  |                 -                |     03 04     | Course Overview, Q&A |             -            |
+|   1  |                 -                |     03 04     | [Course Overview](https://kau365-my.sharepoint.com/:p:/g/personal/taehwan_kim_kau_ac_kr/EVPN7NFr1KhIok20Ukc17zcB-SpD81z5LqZuTSNAK5TizA?e=gnCGgG), Q&A |             -            |
 |   2  |     [Embedded Computing](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EdtqGpXjmFtKi2HdZ1dqukcBzb1e_L7AuEhUWq_eYYmdbw?e=ejefpN) (Ch1)[🎞️](https://kau365-my.sharepoint.com/:v:/g/personal/taehwan_kim_kau_ac_kr/EXdULA_2FyhGkiqfZ08IHEYBl0M7gbLn0ObIrfTcr9JGkw?e=HCVsgM)    |     03 11     |  Lecture Review, Q&A |             -            |
 |   3  |      [Instruction Sets](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/Ec9H_DyGL0tHjd8e0JuiS0kB9cAa7_ImV6Qg0i92jyWfcQ?e=CyFI6D) (Ch2)[🎞️](https://kau365-my.sharepoint.com/:v:/g/personal/taehwan_kim_kau_ac_kr/EV42_ynd_ZBOg4dEspM7Xy8BQkfXAPD_N9fZYCoMjM1o4A?e=pccJ79)     |     03 18     |  Lecture Review, Q&A |             -            |
 |   4  |           [Lab] Setup🎞️           |     03 25     |  Lecture Review, Q&A |           Setup          |
