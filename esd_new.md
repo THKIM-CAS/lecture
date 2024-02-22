@@ -15,3 +15,6 @@
 |  13  |        [Lab] Accelerator🎞️        |     05 27     |  Lecture Review, Q&A |        Accelerator       |
 |  14  |        Interconnect🎞️             |     06 03     |  Lecture Review, Q&A |        Accelerator, Cont'd       |
 |  15  |             -                     |     06 10     |  Final Exam          |        -            |
+
+----
+* [Report Template]()
