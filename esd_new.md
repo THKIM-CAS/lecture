@@ -9,11 +9,11 @@
 |     7       |     [CPUs (Ch3)]()[🎞️]()                                  | 04 15       |     Lecture Review, Q&A      |     ARM Assembly                   |     ARM Assembly        |
 |     8       |     [[Lab] Memory-Mapped IO]()[🎞️]()                         | 04 22    |     Lecture Review, Q&A      |     Memory-Mapped IO               |                         |
 |     9       |     [Computing Platforms (Ch4)]()[🎞️]()                       | 04 29   |     Lecture Review, Q&A      |     Memory-Mapped IO               |     Memory-Mapped IO    |
-|     10      |     [Program Design and Analysis (Ch5)]()[🎞️]()                | 05 07?  |     Lecture Review, Q&A      |     -                              |                         |
+|     10      |     [Program Design & Analysis (Ch5)]()[🎞️]()                | 05 07?  |     Lecture Review, Q&A      |     -                              |                         |
 |     11      |     [[Lab] Device Driver]()[🎞️]()                               | 05 13 |     Lecture Review, Q&A      |     Device Driver                  |                         |
-|     12      |     [Processes and Operating Systems (Ch6)]()[🎞️]()             | 05 20 |     Lecture Review, Q&A      |     Device Driver                  |     Device Driver       |
+|     12      |     [Processes and OSes (Ch6)]()[🎞️]()             | 05 20 |     Lecture Review, Q&A      |     Device Driver                  |     Device Driver       |
 |     13      |     [[Lab] Accelerator]()[🎞️]()                                 | 05 27 |     Lecture Review, Q&A      |     Accelerator                    |                         |
-|     14      |     [Interconnect, Embedded Multiprocessors (Ch10)]()[🎞️]()    | 06 03 |     -                        |     Accelerator                    |     Accelerator         |
+|     14      |     [Interconnect, Multiprocessors (Ch10)]()[🎞️]()    | 06 03 |     -                        |     Accelerator                    |     Accelerator         |
 |     15      |     Final Exam                                     | 06 10 |     -                        |     -                              |                         |
 -----
 * [Report Template]()
