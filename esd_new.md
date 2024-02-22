@@ -11,9 +11,9 @@
 |     9       |     [Computing Platforms (Ch4)]()[🎞️]()                       | 04 29   |     Lecture Review, Q&A      |     Memory-Mapped IO, Cont'd               |     Memory-Mapped IO    |
 |     10      |     [Program Design & Analysis (Ch5)]()[🎞️]()                | 05 07?  |     Lecture Review, Q&A      |     -                              |                         |
 |     11      |     [[Lab] Device Driver]()[🎞️]()                               | 05 13 |     Lecture Review, Q&A      |     Device Driver                  |                         |
-|     12      |     [Processes and OSes (Ch6)]()[🎞️]()             | 05 20 |     Lecture Review, Q&A      |     Device Driver                  |     Device Driver       |
+|     12      |     [Processes and OSes (Ch6)]()[🎞️]()             | 05 20 |     Lecture Review, Q&A      |     Device Driver, Cont'd                  |     Device Driver       |
 |     13      |     [[Lab] Accelerator]()[🎞️]()                                 | 05 27 |     Lecture Review, Q&A      |     Accelerator                    |                         |
-|     14      |     [Interconnect]()[🎞️]()    | 06 03 |     -                        |     Accelerator                    |     Accelerator, Cont'd         |
+|     14      |     [Interconnect]()[🎞️]()    | 06 03 |     -                        |     Accelerator, Cont'd                    |     Accelerator         |
 |     15      |     Final Exam                                     | 06 10 |     -                        |     -                              |                         |
 -----
 * [Report Template]()
