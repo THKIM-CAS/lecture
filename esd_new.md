@@ -1,4 +1,4 @@
-|     Week    |     Pre-Class (Lecture Video)                        | In-Class Date |            In-Class                 |     In-Class Lab                 |     Report              |
+|     Week    |     Pre-Class                                    | In-Class Date |            In-Class                 |     In-Class Lab                 |     Report              |
 |-------------|------------------------------------------------------|--|------------------------------|------------------------------------|-------------------------|
 |     1       |     -                                                | 03 04  |     [Course Overview](), Q&A     |     -                              |                         |
 |     2       |     [Embedded Computing (Ch1)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EdtqGpXjmFtKi2HdZ1dqukcBzb1e_L7AuEhUWq_eYYmdbw?e=ejefpN)[🎞️](https://kau365-my.sharepoint.com/:v:/g/personal/taehwan_kim_kau_ac_kr/EXdULA_2FyhGkiqfZ08IHEYBl0M7gbLn0ObIrfTcr9JGkw?e=HCVsgM)               | 03 11            |     Lecture Review, Q&A      |     -                              |                         |
