@@ -14,6 +14,5 @@
 |     12      |     [Processes and OSes (Ch6)]()[🎞️]()             | 05 20 |     Lecture Review, Q&A      |     Device Driver, Cont'd                  |     Device Driver       |
 |     13      |     [[Lab] Accelerator]()[🎞️]()                                 | 05 27 |     Lecture Review, Q&A      |     Accelerator                    |          -               |
 |     14      |     [Interconnect]()[🎞️]()    | 06 03 |     -                        |     Accelerator, Cont'd                    |     Accelerator         |
-|     15      |     Final Exam                                     | 06 10 |     -                        |     -                              |         -                |
 -----
 * [Report Template]()
