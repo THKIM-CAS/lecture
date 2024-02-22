@@ -13,6 +13,5 @@
 |     11      |     [[Lab] Device Driver]()[🎞️]()                               | 05 13 |     Lecture Review, Q&A      |     Device Driver                  |
 |     12      |     [Processes and OSes (Ch6)]()[🎞️]()             | 05 20 |     Lecture Review, Q&A      |     Device Driver, Cont'd                  | 
 |     13      |     [[Lab] Accelerator]()[🎞️]()                                 | 05 27 |     Lecture Review, Q&A      |     Accelerator                    |
-|     14      |     [Interconnect]()[🎞️]()    | 06 03 |     -                        |     Accelerator, Cont'd                    |
 -----
 * [Report Template]()
