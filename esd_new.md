@@ -7,14 +7,14 @@
 |   5  |  [Instruction Sets, Cont’d](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EYWv0rHFrpZIogVU9i79JzoBd2ximMh-2pmx5f6G-6Rz-g?e=RLJIZy) (Ch2)[🎞️](https://kau365-my.sharepoint.com/:v:/g/personal/taehwan_kim_kau_ac_kr/EZ2mn5HBY41CjlNNA8q-cHsBpviz9WholhBo9P0hxzEIAQ?e=2othDG) |     04 01     |  Lecture Review, Q&A |           Setup, Cont'd          |
 |   6  |        [Lab] ARM Assembly🎞️       |     04 08     |  Lecture Review, Q&A |       ARM Assembly       |
 |   7  |            CPUs (Ch3)🎞️           |     04 15     |  Lecture Review, Q&A |   ARM Assembly, Cont'd   |
-|   8  |      [Lab] Memory-Mapped IO🎞️     |     04 22     |  Lecture Review, Q&A |     Memory-Mapped IO     |
-|   9  |    Computing Platforms (Ch4)🎞️    |     04 29     |  Lecture Review, Q&A | Memory-Mapped IO, Cont'd |
-|  10  | Program Design & Analysis (Ch5)🎞️ |     05 07?    |  Lecture Review, Q&A |             -            |
+|   8  |    Computing Platforms (Ch4)🎞️    |     04 22     |  Midterm Exam (W1~W7)|  -                       |
+|   9  | [Lab] Memory-Mapped IO🎞️          |     04 29   |  Lecture Review, Q&A |  Memory-Mapped IO         |
+|  10  | Program Design & Analysis (Ch5)🎞️ |     05 07?    |  Lecture Review, Q&A |  Memory-Mapped IO, Cont'd |
 |  11  |       [Lab] Device Driver🎞️       |     05 13     |  Lecture Review, Q&A |       Device Driver      |
 |  12  |     Processes and OSes (Ch6)🎞️    |     05 20     |  Lecture Review, Q&A |   Device Driver, Cont'd  |
 |  13  |        [Lab] Accelerator🎞️        |     05 27     |  Lecture Review, Q&A |        Accelerator       |
 |  14  |        Interconnect🎞️             |     06 03     |  Lecture Review, Q&A |        Accelerator, Cont'd       |
-|  15  |             -                     |     06 10     |  Final Exam          |        -            |
+|  15  |             -                     |     06 10     |  Final Exam (W8-W14) |        -            |
 
 ----
 * [Report Template]()
