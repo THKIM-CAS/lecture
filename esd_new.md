@@ -17,4 +17,4 @@
 |  15  |             -                     |     06 10     |  Final Exam (W8-W14) |        -            |
 
 ----
-* [Report Template]()
+* [Report Template](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/Ea89oRrzuchGsfPnc9M6PhwB8wur-XpmQxTiPb_EkboPWw?e=1wYvu5)
