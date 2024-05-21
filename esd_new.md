@@ -12,8 +12,8 @@
 |  10  | [Program Design & Analysis](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/ER0LBSe71JNLsQpBI4MmmtABpBOyQHcLkEqYv20RyhOh3w?e=nNQDGf) (Ch5)[🎞️](https://kau365-my.sharepoint.com/:v:/g/personal/taehwan_kim_kau_ac_kr/ETrHZVlJCnVPpIYRUfn55OQBSHAyFiKHE3xuwLvFIjd9dw?e=0AWr5g) |     05 07    |  Lecture Review, Q&A |  Memory-Mapped IO, Cont'd |
 |  11  |       [Lab] [Device Driver](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EfE4xluGetJItV5ps1yN8rwBsBhvB5hYMjpjheikkHArlw?e=ihyhE6)[🎞️](https://kau365-my.sharepoint.com/:v:/g/personal/taehwan_kim_kau_ac_kr/Ec7Py2rCvZVIha-20cffW2EBAIWF7AkqEVuzKX3-vmB61w?e=SLFmYkhttps://kau365-my.sharepoint.com/:v:/g/personal/taehwan_kim_kau_ac_kr/Ec7Py2rCvZVIha-20cffW2EBAIWF7AkqEVuzKX3-vmB61w?e=SLFmYk)       |     05 13     |  Lecture Review, Q&A |       Device Driver      |
 |  12  |     [Processes and OSes](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EWeljTW0Io1FihK65mg5QKUBbDMkRINymZE8QhKN4itj4w?e=VmbnpH) (Ch6)[🎞️](https://kau365-my.sharepoint.com/:v:/g/personal/taehwan_kim_kau_ac_kr/EVnF5uLpygtMi4SlQnSWOnAB2PH56Ah_ddqGqt9Oen8-3Q?e=6jkKZo)    |     05 21     |  Lecture Review, Q&A |   Device Driver, Cont'd  |
-|  13  |        [Lab] Accelerator🎞️        |     05 27     |  Lecture Review, Q&A |        Accelerator       |
-|  14  |        Interconnect🎞️             |     06 03     |  Lecture Review, Q&A |        Accelerator, Cont'd       |
+|  13  |        [Lab] [Accelerator](https://1drv.ms/b/s!AqFGjbpBFuMfjM5J-WNPYWPD8sTwiA?e=nf2QWy) [🎞️](https://1drv.ms/v/s!AqFGjbpBFuMfjM5MNiLw7lvDMObXjQ?e=wRIyeE)        |     05 27     |  Lecture Review, Q&A |        Accelerator       |
+|  14  |        [Interconnect](https://1drv.ms/b/s!AqFGjbpBFuMfjM5ZGY-dqEOts0VoDQ?e=ay1wyk)             |     06 03     |  Lecture Review, Q&A |        Accelerator, Cont'd       |
 |  15  |             -                     |     06 10     |  Final Exam (W8-W14) |        -            |
 
 ----
