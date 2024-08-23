@@ -5,7 +5,7 @@ You can download the files *except the videos* through the session made by log-o
 * [Source Code in Course Material](https://kau365-my.sharepoint.com/:u:/g/personal/taehwan_kim_kau_ac_kr/EeJrchH6vuNApNwLGLFmmZkB0Lddl95733JtKHe78r804A?e=0P3jpD)
 
 | Week | Pre-Class: Lecture                    | Pre-Class: Lab                        | In-Class                      |
-|------|---------------------------------------|---------------------------------------|---------------|-------------------------------|
+|------|---------------------------------------|---------------------------------------|----------------------------|
 |  1   | -                                     | -                                     | Course Overview, Q&A          |
 |  2   | Cell-Based Design & Verilog HDL[🎞️]()      | Setup of Design Tools[🎞️]()                   | Q&A, Lab💻                      |
 |  3   | Verilog HDL for Circuit Synthesis 1[🎞️]()       | -                                     | Q&A                      |
