@@ -15,6 +15,7 @@ include:
   - hd2023-2.md
   - mp_new.md
   - esd_new.md
+  - dsd.md
 
 
 locale: "ko-KR"
