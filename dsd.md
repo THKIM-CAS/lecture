@@ -7,7 +7,7 @@ You can download the files *except the videos* through the session made by log-o
 | Week | Pre-Class: Lecture                    | Pre-Class: Lab                        | In-Class                      |
 |------|---------------------------------------|---------------------------------------|----------------------------|
 |  1   | -                                     | -                                     | Course Overview, Q&A          |
-|  2   | Cell-Based Design & Verilog HDL[🎞️]()      | Setup of Design Tools[🎞️]()                   | Q&A, Lab💻                      |
+|  2   | Cell-Based Design & Verilog HDL[🎞️](https://kau365-my.sharepoint.com/:v:/g/personal/taehwan_kim_kau_ac_kr/EdMn0ld57PBHj4hcb-pAYqcB258OekMCBlcUCUB-71AO-Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Re1GJ4)      | Setup of Design Tools[🎞️](https://kau365-my.sharepoint.com/:v:/g/personal/taehwan_kim_kau_ac_kr/EeaLN-Q8m9lAkwsZDOIKOEMBnGSb5xUtV0q781oLEnRqSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=3rjhLi)                   | Q&A, Lab💻                      |
 |  3   | Verilog HDL for Circuit Synthesis 1[🎞️]()       | -                                     | Q&A                      |
 |  4   | Verilog HDL for Circuit Synthesis 2[🎞️]()       | -                                     | Q&A                      |
 |  5   | -                                      | -                                     |  Quiz 1                      |
