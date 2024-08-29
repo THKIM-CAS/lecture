@@ -4,8 +4,8 @@ You can download the files *except the 📽* through the session made by log-on 
 * [Lab Excercises]()
 * [Lab Report Template]()
 ***
-* Week 01: [Introduction to Intel Nios II Soft Processor (1/2)]()
-* Week 02: [Introduction to Intel Nios II Soft Processor (2/2)]() [📽]() / [Design Example (ASM)]()[📽]()
+* Week 01: [Introduction to Intel Nios II Soft Processor (1/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EVbZXT8EsllKv_npK29xh4cBHfDBLqgATR1HyLaESMJvzg?e=Cneo02)
+* Week 02: [Introduction to Intel Nios II Soft Processor (2/2)](https://kau365-my.sharepoint.com/:b:/g/personal/taehwan_kim_kau_ac_kr/EQc-k5S95K1Mh5NoahjivrsBMhml2NJEGYtkoYTLoasBsw?e=fFugPM) [📽](https://kau365-my.sharepoint.com/:v:/g/personal/taehwan_kim_kau_ac_kr/EYFkzlOmdL9LngT66KF6Df8Bge2acM6b8rGquFMXlf1HVw?e=lAPLMX) / [Design Example (ASM)]()[📽]()
 * Week 03: [Lab 1]()[📽]() 
 * Week 04: [Lab 2]()[📽]()
 * Week 05: [Lab 3]()[📽]()
